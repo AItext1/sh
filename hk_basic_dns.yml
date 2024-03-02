@@ -1,4 +1,4 @@
-# dns配置
+
 tcp://fringeorionishk02.netflix520.com:
    strategy: ipv4_first
    rules:
