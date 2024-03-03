@@ -32,6 +32,20 @@ fringeorionishk02.netflix520.com:
    - domain:nflxsearch.net
    - domain:nflxso.net
    - domain:nflxvideo.net
+   - domain:#DISNEY
+   - domain:disneyplus.com
+   - domain:disney-plus.net
+   - domain:disneystreaming.com
+   - domain:dssott.com
+   - domain:bamgrid.com
+   - domain:playback-certs.bamgrid.com
+   - domain:disney.api.edge.bamgrid.com
+   - domain:disney.connections.edge.bamgrid.com
+   - domain:disney.content.edge.bamgrid.com
+   - domain:disney.playback.edge.bamgrid.com
+   - domain:cdn.registerdisney.go.com
+   - domain:execute-api.us-east-1.amazonaws.com
+   - domain:sanalytics.disnyplus.com
    - domain:#BAHAMUT
    - domain:gamer.com.tw
    - domain:bahamut.com.tw
