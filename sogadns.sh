@@ -23,10 +23,5 @@ wget -O /etc/soga/dns.yml "$url" && soga restart
 
 echo "DNS 更新完成并尝试重启 soga。"
 
-使脚本具有可执行权限：
-
-chmod +x update_dns.sh
-
-然后执行脚本：
-
-./update_dns.sh
+# 显示soga日志
+soga log
