@@ -19,7 +19,7 @@ case $choice in
     url="https://raw.githubusercontent.com/AItext1/sh/main/sgp_no_netflix.yml"
     ;; 
   4)
-    url="https://raw.githubusercontent.com/AItext1/sh/main/nnc_hk.yml"
+    url="https://raw.githubusercontent.com/AItext1/sh/main/nnc_hk"
     ;;
   *)
     echo "无效选择。退出。"
