@@ -5,6 +5,7 @@ echo "1) hkt"
 echo "2) hk"
 echo "3) sgp_no_netflix"
 echo "4) nnc_hk"
+echo "5) nnc_sgp"
 
 read -p "输入选择 (1 或 2): " choice
 
@@ -20,7 +21,10 @@ case $choice in
     ;; 
   4)
     url="https://raw.githubusercontent.com/AItext1/sh/main/nnc_hk.yml"
-    ;;
+    ;;  
+  5)
+    url="https://raw.githubusercontent.com/AItext1/sh/main/nnc_sgp.yml"
+    ;;  
   *)
     echo "无效选择。退出。"
     exit 1
