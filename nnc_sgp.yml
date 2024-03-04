@@ -1,0 +1,19 @@
+tcp://167.172.79.98:
+   strategy: ipv4_first
+   rules:
+   - domain:#TIKTOK
+   - domain:byteoversea.com
+   - domain:muscdn.com
+   - domain:musical.ly
+   - domain:tik-tokapi.com
+   - domain:tiktok.com
+   - domain:tiktokcdn.com
+   - domain:tiktokv.com
+   - domain:p16-tiktokcdn-com.akamaized.net
+   - domain:#BAHAMUT
+   - domain:gamer.com.tw
+   - domain:bahamut.com.tw
+   - domain:gvt1.com
+   - domain:digicert.com
+   - domain:viblast.com
+   - domain:bahamut.akamaized.net
