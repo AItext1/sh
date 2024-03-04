@@ -1,4 +1,4 @@
-fringeorionishk02.netflix520.com:
+tcp://fringeorionishk02.netflix520.com:
    strategy: ipv4_first
    rules:
    - domain:#TIKTOK
@@ -30,7 +30,7 @@ fringeorionishk02.netflix520.com:
    - domain:digicert.com
    - domain:viblast.com
    - domain:bahamut.akamaized.net
-fringe.orionis06.netflix520.com:
+tcp://fringe.orionis06.netflix520.com:
    strategy: ipv4_first
    rules:
    - domain:platform.openai.com
