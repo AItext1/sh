@@ -4,6 +4,7 @@ echo "请选择要下载的 DNS 文件:"
 echo "1) hkt"
 echo "2) hk"
 echo "3) sgp_no_netflix"
+echo "4) nnc_hk"
 
 read -p "输入选择 (1 或 2): " choice
 
@@ -16,6 +17,9 @@ case $choice in
     ;;
   3)
     url="https://raw.githubusercontent.com/AItext1/sh/main/sgp_no_netflix.yml"
+    ;; 
+  4)
+    url="https://raw.githubusercontent.com/AItext1/sh/main/nnc_hk.yml"
     ;;
   *)
     echo "无效选择。退出。"
