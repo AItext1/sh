@@ -1,4 +1,4 @@
-tcp://192.81.214.131:
+tcp://167.172.65.197:
    strategy: ipv4_first
    rules:
    - domain:#TVB
@@ -19,6 +19,9 @@ tcp://192.81.214.131:
    - domain:tvbweekly.com
    - domain:tvmedia.net.au
    - domain:videos-f.jwpsrv.com
+tcp://192.81.214.131:
+   strategy: ipv4_first
+   rules:
    - domain:#NETFLIX
    - domain:fast.com
    - domain:netflix.ca
