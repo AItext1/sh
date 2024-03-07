@@ -17,7 +17,7 @@ tcp://167.172.79.98:
    - domain:digicert.com
    - domain:viblast.com
    - domain:bahamut.akamaized.net
-tcp://fringe.orionis03.netflix520.com:
+tcp://fringe.orionis09.netflix520.com:
    strategy: ipv4_first
    rules:
    - domain:platform.openai.com
