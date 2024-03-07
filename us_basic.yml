@@ -1,4 +1,4 @@
-fringeorionishk02.netflix520.com:
+tcp://192.81.214.131:
    strategy: ipv4_first
    rules:
    - domain:#TVB
@@ -592,7 +592,7 @@ fringeorionishk02.netflix520.com:
    - domain:zdf-hls-15.akamaized.net
    - domain:hoy.tv
    - domain:hoytv-live-stream.hoy.tv
-fringe.orionis06.netflix520.com:
+fringe.orionis02.netflix520.com:
    strategy: ipv4_first
    rules:
    - domain:platform.openai.com
