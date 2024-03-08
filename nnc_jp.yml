@@ -1,4 +1,4 @@
-tcp://fringe.orionis08.netflix520.com:
+tcp://fringe.orionis04.netflix520.com:
    strategy: ipv4_first
    rules:
    - domain:platform.openai.com
