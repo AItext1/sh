@@ -15,7 +15,7 @@ tcp://159.223.61.25:
    - domain:bucketeer.jp
    - domain:abema.adx.promo
    - domain:hayabusa.media
-tcp://fringe.orionis09.netflix520.com:
+tcp://fringe.orionis06.netflix520.com:
    strategy: ipv4_first
    rules:
    - domain:platform.openai.com
