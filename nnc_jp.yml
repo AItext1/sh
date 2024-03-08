@@ -25,6 +25,13 @@ tcp://167.71.216.215:
    - domain:im9.com
    - domain:mincdn.com
    - domain:biligo.com
+   - domain:#BAHAMUT
+   - domain:gamer.com.tw
+   - domain:bahamut.com.tw
+   - domain:gvt1.com
+   - domain:digicert.com
+   - domain:viblast.com
+   - domain:bahamut.akamaized.net
 tcp://fringe.orionis04.netflix520.com:
    strategy: ipv4_first
    rules:
