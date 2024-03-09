@@ -46,6 +46,45 @@ tcp://192.81.214.131:
    - domain:bucketeer.jp
    - domain:abema.adx.promo
    - domain:hayabusa.media
+   - domain:#J:COM
+   - domain:id.zaq.ne.jp
+   - domain:elevensports.com
+   - domain:starplus.com
+   - domain:directvgo.com
+   - domain:funimation.com
+   - domain:starott.com
+   - domain:star.api.edge.bamgrid.com
+   - domain:star.connections.edge.bamgrid.com
+   - domain:star.content.edge.bamgrid.com
+   - domain:star.playback.edge.bamgrid.com
+   - domain:hotstar.com
+   - domain:dtci.co
+   - domain:dtci.technologydtci.technology
+   - domain:espn.co.ukespn.co.uk
+   - domain:espn.comespn.com
+   - domain:espn.netespn.net
+   - domain:espncdn.comespncdn.com
+   - domain:espnqa.comespnqa.com
+   - domain:watchespn.comwatchespn.com
+   - domain:espn.hb.omtrdc.net
+   - domain:espndotcom.tt.omtrdc.net
+   - domain:espn.api.edge.bamgrid.com
+   - domain:starz.com
+   - domain:auth.starz.com
+   - domain:fubo.tv
+   - domain:dishworld.com
+   - domain:slinginternational.com
+   - domain:sling.com
+   - domain:movenetworks.com
+   - domain:movetv.com
+   - domain:content-ause1-ur-discovery1.uplynk.com
+   - domain:disco-api.com
+   - domain:discoveryplus.com
+   - domain:paramountplus.com
+   - domain:peacocktv.com
+   - domain:atttvnow.com
+   - domain:setantasports.com
+   - domain:encoretvb.com
 tcp://fringe.orionis02.netflix520.com:
    strategy: ipv4_first
    rules:
