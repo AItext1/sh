@@ -46,6 +46,22 @@ tcp://192.81.214.131:
    - domain:bucketeer.jp
    - domain:abema.adx.promo
    - domain:hayabusa.media
+   - domain:#HBOGOMAX
+   - domain:conviva.com
+   - domain:go.com
+   - domain:hbo.com
+   - domain:hbogo.com
+   - domain:hbonow.com
+   - domain:hboasia.com
+   - domain:hbogoasia.hk
+   - domain:hbogoasia.com
+   - domain:amazonaws.com
+   - domain:akamaihd.net
+   - domain:boltdns.net
+   - domain:cinemax.com
+   - domain:comhbo.com
+   - domain:hbomax.com
+   - domain:maxgo.com
 tcp://fringe.orionis02.netflix520.com:
    strategy: ipv4_first
    rules:
