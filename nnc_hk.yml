@@ -1,8 +1,16 @@
-tcp://fringe.orionis08.netflix520.com:
+tcp://fringeorionishk02.netflix520.com:
    strategy: ipv4_first
    rules:
    - domain:#BAHAMUT
    - domain:gamer.com.tw
    - domain:bahamut.com.tw
    - domain:bahamut.akamaized.net
-
+   - domain:#TIKTOK
+   - domain:byteoversea.com
+   - domain:muscdn.com
+   - domain:musical.ly
+   - domain:tik-tokapi.com
+   - domain:tiktok.com
+   - domain:tiktokcdn.com
+   - domain:tiktokv.com
+   - domain:p16-tiktokcdn-com.akamaized.net
