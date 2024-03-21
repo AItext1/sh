@@ -7,6 +7,7 @@ echo "3) nnc_us"
 echo "4) nnc_tw"
 echo "5) nnc_jp"
 echo "6) us_basic"
+echo "7) ina_hkg"
 
 read -p "输入选择 (1 或 2): " choice
 
@@ -28,7 +29,10 @@ case $choice in
     ;;  
   6)
     url="https://raw.githubusercontent.com/AItext1/sh/main/us_basic.yml"
-    ;;  
+    ;;   
+  7)
+    url="https://raw.githubusercontent.com/AItext1/sh/main/ina_hkg.yml"
+    ;;     
   *)
     echo "无效选择。退出。"
     exit 1
