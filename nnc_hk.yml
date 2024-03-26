@@ -1,4 +1,4 @@
-tcp://fringeorionishk02.netflix520.com:
+tcp://167.172.65.197:
    strategy: ipv4_first
    rules:
    - domain:#BAHAMUT
