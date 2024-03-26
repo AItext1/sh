@@ -1,4 +1,4 @@
-fringeorionishk02.netflix520.com:
+167.172.65.197:
    strategy: ipv4_first
    rules:
    - domain:#NETFLIX
