@@ -59,6 +59,8 @@ tcp://192.81.214.131:
    - domain:comhbo.com
    - domain:hbomax.com
    - domain:maxgo.com
+   - domain:discomax.com
+   - domain:maxgo.com
 tcp://fringe.orionis02.netflix520.com:
    strategy: ipv4_first
    rules:
