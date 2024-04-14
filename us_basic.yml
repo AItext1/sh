@@ -1,4 +1,4 @@
-167.71.216.215:
+91.199.84.240:
    strategy: ipv4_first
    rules:
    - domain:#ABEMA
@@ -15,7 +15,7 @@
    - domain:bucketeer.jp
    - domain:abema.adx.promo
    - domain:hayabusa.media
-tcp://167.172.65.197:
+tcp://91.199.84.143:
    strategy: ipv4_first
    rules:
    - domain:#TVB
@@ -36,7 +36,7 @@ tcp://167.172.65.197:
    - domain:tvbweekly.com
    - domain:tvmedia.net.au
    - domain:videos-f.jwpsrv.com
-tcp://192.81.214.131:
+tcp://91.199.84.38:
    strategy: ipv4_first
    rules:
    - domain:#NETFLIX
