@@ -1,4 +1,4 @@
-tcp://167.172.65.197:
+tcp://91.199.84.143:
    strategy: ipv4_first
    rules:
    - domain:#BAHAMUT
