@@ -1,4 +1,4 @@
-tcp://159.223.61.25:
+tcp://91.199.84.95:
    strategy: ipv4_first
    rules:
    - domain:#ABEMA
