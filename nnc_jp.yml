@@ -1,4 +1,4 @@
-tcp://167.71.216.215:
+tcp://91.199.84.240:
    strategy: ipv4_first
    rules:   
    - domain:#BILIBILI
