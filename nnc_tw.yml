@@ -1,4 +1,4 @@
-tcp://91.199.84.95:
+tcp://jpdns01.netflix520.com:
    strategy: ipv4_first
    rules:
    - domain:#ABEMA
