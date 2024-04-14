@@ -1,4 +1,4 @@
-tcp://167.71.216.215:
+tcp://91.199.84.240:
    strategy: ipv4_first
    rules:
    - domain:#ABEMA
@@ -15,7 +15,7 @@ tcp://167.71.216.215:
    - domain:bucketeer.jp
    - domain:abema.adx.promo
    - domain:hayabusa.media
-tcp://192.81.214.131:
+tcp://91.199.84.38:
    strategy: ipv4_first
    rules:
    - domain:#BAHAMUT
