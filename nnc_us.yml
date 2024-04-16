@@ -15,13 +15,9 @@ tcp://91.199.84.240:
    - domain:bucketeer.jp
    - domain:abema.adx.promo
    - domain:hayabusa.media
-tcp://91.199.84.38:
+tcp://91.199.84.143:
    strategy: ipv4_first
    rules:
-   - domain:#BAHAMUT
-   - domain:gamer.com.tw
-   - domain:bahamut.com.tw
-   - domain:bahamut.akamaized.net
    - domain:#BILIBILI
    - domain:akamaized.net
    - domain:acg.tv
@@ -46,6 +42,13 @@ tcp://91.199.84.38:
    - domain:im9.com
    - domain:mincdn.com
    - domain:biligo.com
+tcp://91.199.84.38:
+   strategy: ipv4_first
+   rules:
+   - domain:#BAHAMUT
+   - domain:gamer.com.tw
+   - domain:bahamut.com.tw
+   - domain:bahamut.akamaized.net
    - domain:#HBOGOMAX
    - domain:conviva.com
    - domain:go.com
