@@ -1,4 +1,4 @@
-tcp://91.199.84.240:
+tcp://94.177.131.85:
    strategy: ipv4_first
    rules:
    - domain:#ABEMA
@@ -42,7 +42,7 @@ tcp://91.199.84.143:
    - domain:im9.com
    - domain:mincdn.com
    - domain:biligo.com
-tcp://91.199.84.38:
+tcp://45.67.211.33:
    strategy: ipv4_first
    rules:
    - domain:#BAHAMUT
