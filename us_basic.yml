@@ -1,4 +1,4 @@
-91.199.84.240:
+94.177.131.85:
    strategy: ipv4_first
    rules:
    - domain:#ABEMA
@@ -36,7 +36,7 @@ tcp://91.199.84.143:
    - domain:tvbweekly.com
    - domain:tvmedia.net.au
    - domain:videos-f.jwpsrv.com
-tcp://91.199.84.38:
+45.67.211.33:
    strategy: ipv4_first
    rules:
    - domain:#NETFLIX
