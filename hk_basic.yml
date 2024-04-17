@@ -577,7 +577,7 @@
    - domain:zdf-hls-15.akamaized.net
    - domain:hoy.tv
    - domain:hoytv-live-stream.hoy.tv
-fringe.orionis06.netflix520.com:
+fringe.orionis10.netflix520.com:
    strategy: ipv4_first
    rules:
    - domain:platform.openai.com
