@@ -580,13 +580,13 @@
 fringe.orionis10.netflix520.com:
    strategy: ipv4_first
    rules:
-   - domain:*.platform.openai.com
-   - domain:*.api.openai.com
-   - domain:*.beta.openai.com
-   - domain:*.auth0.openai.com
-   - domain:*.auth1.openai.com
-   - domain:*.auth2.openai.com
-   - domain:*.chat.openai.com
-   - domain:*.oaistatic.com
-   - domain:*.chatgpt.com
-   - domain:*.files.oaiusercontent.com
+   - domain:platform.openai.com
+   - domain:api.openai.com
+   - domain:beta.openai.com
+   - domain:auth0.openai.com
+   - domain:auth1.openai.com
+   - domain:auth2.openai.com
+   - domain:chat.openai.com
+   - domain:oaistatic.com
+   - domain:chatgpt.com
+   - domain:files.oaiusercontent.com
