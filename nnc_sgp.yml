@@ -14,7 +14,7 @@ tcp://91.199.84.65:
    - domain:gamer.com.tw
    - domain:bahamut.com.tw
    - domain:bahamut.akamaized.net
-tcp://fringe.orionis06.netflix520.com:
+fringe.orionis08.netflix520.com:
    strategy: ipv4_first
    rules:
    - domain:platform.openai.com
