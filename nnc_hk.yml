@@ -14,16 +14,21 @@ tcp://94.177.131.85:
    - domain:tiktokcdn.com
    - domain:tiktokv.com
    - domain:p16-tiktokcdn-com.akamaized.net
-fringe.orionis05.netflix520.com:
-   strategy: ipv4_first
-   rules:
-   - domain:platform.openai.com
-   - domain:api.openai.com
-   - domain:beta.openai.com
-   - domain:auth0.openai.com
-   - domain:auth1.openai.com
-   - domain:auth2.openai.com
-   - domain:chat.openai.com
-   - domain:oaistatic.com
-   - domain:chatgpt.com
-   - domain:files.oaiusercontent.com
+   - domain:#TVB
+   - domain:bigbigchannel.com.hk
+   - domain:bigbigshop.com
+   - domain:content.jwplatform.com
+   - domain:encoretvb.com
+   - domain:mytvsuper.com
+   - domain:mytvsuperlimited.hb.omtrdc.net
+   - domain:mytvsuperlimited.sc.omtrdc.net
+   - domain:tvb.com
+   - domain:tvb.com.au
+   - domain:tvbanywhere.com
+   - domain:tvbanywhere.com.sg
+   - domain:tvbc.com.cn
+   - domain:tvbeventpower.com.hk
+   - domain:tvbusa.com
+   - domain:tvbweekly.com
+   - domain:tvmedia.net.au
+   - domain:videos-f.jwpsrv.com
