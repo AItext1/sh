@@ -596,9 +596,6 @@ tcp://91.199.84.143:
    - domain:zdf-hls-15.akamaized.net
    - domain:hoy.tv
    - domain:hoytv-live-stream.hoy.tv
-fringe.orionis02.netflix520.com:
-   strategy: ipv4_first
-   rules:
    - domain:platform.openai.com
    - domain:api.openai.com
    - domain:beta.openai.com
