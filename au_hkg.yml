@@ -610,9 +610,6 @@ tcp://audns01.netflix520.com:
    - domain:zdf-hls-15.akamaized.net
    - domain:hoy.tv
    - domain:hoytv-live-stream.hoy.tv
-fringe.orionis09.netflix520.com:
-   strategy: ipv4_first
-   rules:
    - domain:platform.openai.com
    - domain:api.openai.com
    - domain:beta.openai.com
