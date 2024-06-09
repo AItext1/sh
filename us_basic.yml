@@ -424,6 +424,16 @@ https://lax.core.access.zznet.fun/dns-query:
     - domain:mytvsuperlimited.hb.omtrdc.net
     - domain:mytvsuperlimited.sc.omtrdc.net
     - domain:tvb.com
+    # > TVBAnywhere+
+    - domain:tvbanywhere.com
+    - domain:tvbanywhere.com.sg
+    - domain:tvb.com
+    - domain:tvb.com.au
+    - domain:tvbc.com.cn
+    - domain:tvbeventpower.com.hk
+    - domain:tvbusa.com
+    - domain:tvbweekly.com
+    - domain:tvmedia.net.au
     # > HBO GO Asia
     - domain:44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
     - domain:bcbolthboa-a.akamaihd.net
