@@ -1,34 +1,45 @@
-tcp://94.177.131.85:
+205.198.64.171:
    strategy: ipv4_first
    rules:
-   - domain:#BAHAMUT
-   - domain:gamer.com.tw
-   - domain:bahamut.com.tw
-   - domain:bahamut.akamaized.net
-   - domain:#TIKTOK
-   - domain:byteoversea.com
-   - domain:muscdn.com
-   - domain:musical.ly
-   - domain:tik-tokapi.com
-   - domain:tiktok.com
-   - domain:tiktokcdn.com
-   - domain:tiktokv.com
-   - domain:p16-tiktokcdn-com.akamaized.net
-   - domain:#TVB
-   - domain:bigbigchannel.com.hk
-   - domain:bigbigshop.com
-   - domain:content.jwplatform.com
-   - domain:encoretvb.com
-   - domain:mytvsuper.com
-   - domain:mytvsuperlimited.hb.omtrdc.net
-   - domain:mytvsuperlimited.sc.omtrdc.net
-   - domain:tvb.com
-   - domain:tvb.com.au
-   - domain:tvbanywhere.com
-   - domain:tvbanywhere.com.sg
-   - domain:tvbc.com.cn
-   - domain:tvbeventpower.com.hk
-   - domain:tvbusa.com
-   - domain:tvbweekly.com
-   - domain:tvmedia.net.au
-   - domain:videos-f.jwpsrv.com
+    # > MyTVSuper
+    - domain:mytvsuper.com
+    - domain:mytvsuperlimited.hb.omtrdc.net
+    - domain:mytvsuperlimited.sc.omtrdc.net
+    - domain:tvb.com
+    # > Bahamut Anime
+    - domain:bahamut.com.tw
+    - domain:gamer.com.tw
+    - domain:gamer-cds.cdn.hinet.net
+    - domain:gamer2-cds.cdn.hinet.net
+    # > HBO / Max
+    - domain:max.com
+    - domain:hbo.com
+    - domain:hbogo.com
+    - domain:hbomax.com
+    - domain:hbomaxcdn.com
+    - domain:hbonow.com
+    - domain:maxgo.com
+     # > Openai
+    - domain:openai.com
+    - domain:oaistatic.com
+    - domain:oaiusercontent.com
+    - domain:chatgpt.com
+    # > Claude 2
+    - domain:anthropic.com
+    - domain:claude.ai
+    # > Google Bard
+    - domain:bard.google.com
+
+https://hkg2.edge.access.zznet.fun/dns-query/else:
+  strategy: ipv4_only
+  rules:
+    # > Tiktok
+    - domain:byteoversea.com
+    - domain:ibytedtos.com
+    - domain:ipstatp.com
+    - domain:muscdn.com
+    - domain:musical.ly
+    - domain:tiktok.com
+    - domain:tik-tokapi.com
+    - domain:tiktokcdn.com
+    - domain:tiktokv.com
