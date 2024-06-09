@@ -527,3 +527,5 @@ https://lax.core.access.zznet.fun/dns-query:
     - domain:claude.ai
     # > Google Bard
     - domain:bard.google.com
+    # > Microsoft Copilot For Image Generates
+    - domain:copilot.microsoft.com
