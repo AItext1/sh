@@ -11,6 +11,7 @@ echo "7) hk_basic"
 echo "8) ina_hkg"
 echo "9) au_hkg"
 echo "10) fr_basic"
+echo "11) de_basic"
 
 read -p "输入选择 (1 或 2): " choice
 
@@ -44,7 +45,10 @@ case $choice in
     ;;      
   10)
     url="https://raw.githubusercontent.com/AItext1/sh/main/fr_basic.yml"
-    ;;   
+    ;;        
+  11)
+    url="https://raw.githubusercontent.com/AItext1/sh/main/de_basic.yml"
+    ;;  
   *)
     echo "无效选择。退出。"
     exit 1
