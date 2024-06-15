@@ -27,8 +27,6 @@ rules=[
     "domain:bingai.nothingnessvoid.tech",
     "domain:wikipedia.org",
     "domain:wikipedia.org.com",
-    "domain:tiktok.com",
-    "domain:www.tiktok.com",
     "domain:tvb.com",
     "domain:tvb.com.au",
     "domain:tvbanywhere.com",
