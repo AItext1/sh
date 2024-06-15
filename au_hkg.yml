@@ -19,3 +19,13 @@ https://syd.core.access.zznet.fun/dns-query:
     - domain:nflxvideo.net
     - domain:nflxext.com
     - domain:nflxso.net
+    # > Tiktok
+    - domain:byteoversea.com
+    - domain:ibytedtos.com
+    - domain:ipstatp.com
+    - domain:muscdn.com
+    - domain:musical.ly
+    - domain:tiktok.com
+    - domain:tik-tokapi.com
+    - domain:tiktokcdn.com
+    - domain:tiktokv.com
