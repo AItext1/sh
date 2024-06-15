@@ -1,3 +1,17 @@
+https://hkg2.edge.access.zznet.fun/dns-query/else:
+  strategy: ipv4_only
+  rules:
+    # > Tiktok
+    - domain:byteoversea.com
+    - domain:ibytedtos.com
+    - domain:ipstatp.com
+    - domain:muscdn.com
+    - domain:musical.ly
+    - domain:tiktok.com
+    - domain:tik-tokapi.com
+    - domain:tiktokcdn.com
+    - domain:tiktokv.com
+    
 https://hkg2.edge.access.zznet.fun/dns-query:
    strategy: ipv4_first
    rules:
@@ -14,16 +28,7 @@ https://hkg2.edge.access.zznet.fun/dns-query:
     # > Hotstar
     - domain:hotstar.com
     - domain:hotstarext.com
-    # > Tiktok
-    - domain:byteoversea.com
-    - domain:ibytedtos.com
-    - domain:ipstatp.com
-    - domain:muscdn.com
-    - domain:musical.ly
-    - domain:tiktok.com
-    - domain:tik-tokapi.com
-    - domain:tiktokcdn.com
-    - domain:tiktokv.com
+
     # ---------- > Taiwan Media
     # > KKTV
     - domain:kfs.io
@@ -508,6 +513,8 @@ https://hkg2.edge.access.zznet.fun/dns-query:
     - domain:mbc.net
     - domain:npaw.com
     - domain:shahid.net
+    
+    # ---------- > Others
     # > Openai
     - domain:openai.com
     - domain:oaistatic.com
