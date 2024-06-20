@@ -1,4 +1,4 @@
-https://hkg2.edge.access.zznet.fun/dns-query/else:
+https://lax.core.access.zznet.fun/dns-query/else:
   strategy: ipv4_only
   rules:
     # > Youtube
