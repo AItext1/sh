@@ -349,8 +349,8 @@ rules=[
 [[routes.outs]] #路由 1 出口
 listen=""
 type="ss"
-server="node-hk.nfdns.xyz"
-port=38888
+server="node-tw.nfdns.xyz"
+port=20558
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
 cipher="chacha20-ietf-poly1305"
 
