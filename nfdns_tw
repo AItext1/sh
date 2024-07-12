@@ -81,6 +81,106 @@ rules=[
     "domain:primevideo.org",
     "domain:primevideo.tv",
     "#Amazon Prime Video--->",
+    "#Disney",
+    "domain:disney.asia",
+    "domain:disney.be",
+    "domain:disney.bg",
+    "domain:disney.ca",
+    "domain:disney.ch",
+    "domain:disney.co.il",
+    "domain:disney.co.jp",
+    "domain:disney.co.kr",
+    "domain:disney.co.th",
+    "domain:disney.co.uk",
+    "domain:disney.co.za",
+    "domain:disney.com",
+    "domain:disney.com.au",
+    "domain:disney.com.br",
+    "domain:disney.com.hk",
+    "domain:disney.com.tw",
+    "domain:disney.cz",
+    "domain:disney.de",
+    "domain:disney.dk",
+    "domain:disney.es",
+    "domain:disney.fi",
+    "domain:disney.fr",
+    "domain:disney.gr",
+    "domain:disney.hu",
+    "domain:disney.id",
+    "domain:disney.in",
+    "domain:disney.io",
+    "domain:disney.it",
+    "domain:disney.my",
+    "domain:disney.nl",
+    "domain:disney.no",
+    "domain:disney.ph",
+    "domain:disney.pl",
+    "domain:disney.pt",
+    "domain:disney.ro",
+    "domain:disney.ru",
+    "domain:disney.se",
+    "domain:disney.sg",
+    "domain:adventuresbydisney.com",
+    "domain:disney-asia.com",
+    "domain:disney-discount.com",
+    "domain:disney-plus.net",
+    "domain:disney-studio.com",
+    "domain:disney-studio.net",
+    "domain:disneyadsales.com",
+    "domain:disneyarena.com",
+    "domain:disneyaulani.com",
+    "domain:disneybaby.com",
+    "domain:disneycareers.com",
+    "domain:disneychannelonstage.com",
+    "domain:disneychannelroadtrip.com",
+    "domain:disneycruisebrasil.com",
+    "domain:disneyenconcert.com",
+    "domain:disneyiejobs.com",
+    "domain:disneyinflight.com",
+    "domain:disneyinternational.com",
+    "domain:disneyinternationalhd.com",
+    "domain:disneyjunior.com",
+    "domain:disneyjuniortreataday.com",
+    "domain:disneylatino.com",
+    "domain:disneymagicmoments.co.il",
+    "domain:disneymagicmoments.co.uk",
+    "domain:disneymagicmoments.co.za",
+    "domain:disneymagicmoments.de",
+    "domain:disneymagicmoments.es",
+    "domain:disneymagicmoments.fr",
+    "domain:disneymagicmoments.gen.tr",
+    "domain:disneymagicmoments.gr",
+    "domain:disneymagicmoments.it",
+    "domain:disneymagicmoments.pl",
+    "domain:disneymagicmomentsme.com",
+    "domain:disneyme.com",
+    "domain:disneymeetingsandevents.com",
+    "domain:disneymovieinsiders.com",
+    "domain:disneymusicpromotion.com",
+    "domain:disneynewseries.com",
+    "domain:disneynow.com",
+    "domain:disneypeoplesurveys.com",
+    "domain:disneyplus.com",
+    "domain:disneyredirects.com",
+    "domain:disneysrivieraresort.com",
+    "domain:disneystore.com",
+    "domain:disneystreaming.com",
+    "domain:disneysubscription.com",
+    "domain:disneytickets.co.uk",
+    "domain:disneyturkiye.com.tr",
+    "domain:disneytvajobs.com",
+    "domain:disneyworld-go.com",
+    "domain:go-disneyworldgo.com",
+    "domain:go.com",
+    "domain:mickey.tv",
+    "domain:shopdisney.com",
+    "domain:shops-disney.com",
+    "domain:sorcerersarena.com",
+    "domain:spaindisney.com",
+    "domain:streamingdisney.net",
+    "domain:watchdisneyfe.com",
+    "domain:disney.api.edge.bamgrid.com",
+    "#Disney--->",
     "#Spotify",
     "domain:spotify.com",
     "domain:www.spotify.com",
@@ -106,10 +206,10 @@ rules=[
 [[routes.outs]] #路由 跨国 出口
 listen=""
 type="ss"
-server="node-hk.nfdsn.xyz"
-port=38888
+server=""
+port=
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher="chacha20-ietf-poly1305"
+cipher=""
 
 
 #路由 香港
@@ -186,7 +286,7 @@ type="ss"
 server="node-hk.nfdns.xyz"
 port=38888
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher="chacha20-ietf-poly1305"
+cipher=""
 
 #路由 台湾
 [[routes]]
@@ -229,7 +329,7 @@ type="ss"
 server="node-tw.nfdns.xyz"
 port=20558
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher="chacha20-ietf-poly1305"
+cipher=""
 
 #路由 日本
 [[routes]]
@@ -377,7 +477,7 @@ type="ss"
 server="node-jp.nfdns.xyz"
 port=38123
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher="chacha20-ietf-poly1305"
+cipher=""
 
 
 #路由 韩国
@@ -421,7 +521,7 @@ type="ss"
 server="node-kr.nfdns.xyz"
 port=23355
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher="chacha20-ietf-poly1305"
+cipher=""
 
 
 #路由 新加坡
@@ -437,7 +537,7 @@ type="ss"
 server="node-sg.nfdns.xyz"
 port=20955
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher="chacha20-ietf-poly1305"
+cipher=""
 
 #路由 英国
 [[routes]]
@@ -454,7 +554,7 @@ type="ss"
 server="node-uk.nfdns.xyz"
 port=25253
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher="chacha20-ietf-poly1305"
+cipher=""
 
 #路由 美国
 [[routes]]
@@ -562,7 +662,7 @@ type="ss"
 server="node-us.nfdns.xyz"
 port=38383
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher="chacha20-ietf-poly1305"
+cipher=""
 
 #路由 其他
 [[routes]]
@@ -592,7 +692,7 @@ type="ss"
 server="node-us.nfdns.xyz"
 port=38383
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher="chacha20-ietf-poly1305"
+cipher=""
 
 
 #路由 ALL
