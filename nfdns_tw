@@ -206,10 +206,10 @@ rules=[
 [[routes.outs]] #路由 跨国 出口
 listen=""
 type="ss"
-server=""
-port=
+server="node-tw.nfdsn.xyz"
+port=20558
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher=""
+cipher="chacha20-ietf-poly1305"
 
 
 #路由 香港
@@ -286,7 +286,7 @@ type="ss"
 server="node-hk.nfdns.xyz"
 port=38888
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher=""
+cipher="chacha20-ietf-poly1305"
 
 #路由 台湾
 [[routes]]
@@ -329,7 +329,7 @@ type="ss"
 server="node-tw.nfdns.xyz"
 port=20558
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher=""
+cipher="chacha20-ietf-poly1305"
 
 #路由 日本
 [[routes]]
@@ -475,9 +475,9 @@ rules=[
 listen=""
 type="ss"
 server="node-jp.nfdns.xyz"
-port=38123
+port=38383
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher=""
+cipher="chacha20-ietf-poly1305"
 
 
 #路由 韩国
@@ -521,7 +521,7 @@ type="ss"
 server="node-kr.nfdns.xyz"
 port=23355
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher=""
+cipher="chacha20-ietf-poly1305"
 
 
 #路由 新加坡
@@ -537,7 +537,7 @@ type="ss"
 server="node-sg.nfdns.xyz"
 port=20955
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher=""
+cipher="chacha20-ietf-poly1305"
 
 #路由 英国
 [[routes]]
@@ -554,7 +554,7 @@ type="ss"
 server="node-uk.nfdns.xyz"
 port=25253
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher=""
+cipher="chacha20-ietf-poly1305"
 
 #路由 美国
 [[routes]]
@@ -662,7 +662,7 @@ type="ss"
 server="node-us.nfdns.xyz"
 port=38383
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher=""
+cipher="chacha20-ietf-poly1305"
 
 #路由 其他
 [[routes]]
@@ -692,7 +692,7 @@ type="ss"
 server="node-us.nfdns.xyz"
 port=38383
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
-cipher=""
+cipher="chacha20-ietf-poly1305"
 
 
 #路由 ALL
