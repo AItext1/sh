@@ -475,7 +475,7 @@ rules=[
 listen=""
 type="ss"
 server="node-jp.nfdns.xyz"
-port=38383
+port=38123
 password="c6de5b53-ef09-47af-b698-ae115a555d96"
 cipher="chacha20-ietf-poly1305"
 
