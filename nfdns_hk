@@ -35,7 +35,7 @@ rules=[
     "#Gemini",
     "domain:gemini.google.com",
     "domain:proactivebackend-pa.googleapis.com",
-    "#Gemini--->"
+    "#Gemini--->",
     "#Tiktok",
     "domain:tiktok.com",
     "domain:www.tiktok.com",
