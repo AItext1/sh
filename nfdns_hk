@@ -200,7 +200,11 @@ cipher="chacha20-ietf-poly1305"
 #路由 台湾
 [[routes]]
 rules=[
-    "#TW",
+    "#TW", 
+    "#Perplexity",
+    "domain:perplexity.ai",
+    "domain:perplexity.com",
+    "domain:pplx.ai",
     "#Bahamut",
     "domain:bahamut.akamaized.net",
     "domain:bahamut.com.tw",
