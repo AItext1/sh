@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "请选择要下载的 DNS 文件:"
-echo "1) uk_basic"
+echo "1) us_nnc"
 echo "2) nnc_sgp"
 echo "3) nnc_us"
 echo "4) nnc_tw"
@@ -18,7 +18,7 @@ read -p "输入选择 (1 或 2): " choice
 
 case $choice in
   1)
-    url="https://raw.githubusercontent.com/AItext1/sh/main/uk_basic.yml"
+    url="https://raw.githubusercontent.com/AItext1/sh/main/us_nnc.yml"
     ;;  
   2)
     url="https://raw.githubusercontent.com/AItext1/sh/main/nnc_sgp.yml"
