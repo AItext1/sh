@@ -2,7 +2,7 @@
 
 echo "请选择要下载的 DNS 文件:"
 echo "1) sgp_basic"
-echo "2) 1"
+echo "2) jp_basic"
 echo "3) nnc_us"
 echo "4) nnc_tw"
 echo "5) nnc_jp"
@@ -21,7 +21,7 @@ case $choice in
     url="https://raw.githubusercontent.com/AItext1/sh/main/sgp_basic.yml"
     ;;  
   2)
-    url="https://raw.githubusercontent.com/AItext1/sh/main/1.yml"
+    url="https://raw.githubusercontent.com/AItext1/sh/main/jp_basic.yml"
     ;;    
   3)
     url="https://raw.githubusercontent.com/AItext1/sh/main/nnc_us.yml"
