@@ -13,7 +13,15 @@ https://hkg2.edge.access.zznet.fun/dns-query:
     - domain:dcblivedazn.akamaized.net
     # > Hotstar
     - domain:hotstar.com
-    - domain:hotstarext.com 
+    - domain:hotstarext.com
+    # > Netflix
+    - domain:netflix.com
+    - domain:netflix.net
+    - domain:nflximg.com
+    - domain:nflximg.net
+    - domain:nflxvideo.net
+    - domain:nflxext.com
+    - domain:nflxso.net 
     
     # ---------- > Taiwan Media
     # > KKTV
