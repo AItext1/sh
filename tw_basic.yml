@@ -418,21 +418,6 @@ https://hkg2.edge.access.zznet.fun/dns-query:
     - domain:tvbusa.com
     - domain:tvbweekly.com
     - domain:tvmedia.net.au
-    # > HBO GO Asia
-    - domain:44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
-    - domain:bcbolthboa-a.akamaihd.net
-    - domain:dai3fd1oh325y.cloudfront.net
-    - domain:hboasia1-i.akamaihd.net
-    - domain:hboasia2-i.akamaihd.net
-    - domain:hboasia3-i.akamaihd.net
-    - domain:hboasia4-i.akamaihd.net
-    - domain:hboasia5-i.akamaihd.net
-    - domain:hboasialive.akamaized.net
-    - domain:hbogoprod-vod.akamaized.net
-    - domain:hbolb.onwardsmg.com
-    - domain:hbounify-prod.evergent.com
-    - domain:hbogoasia.com
-    - domain:hbogoasia.hk
 
     # ---------- > South America Media
     # Star+
