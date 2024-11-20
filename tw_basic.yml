@@ -47,21 +47,6 @@ https://hkg2.edge.access.zznet.fun/dns-query:
     - domain:d2ivmxp5z2ww0n.cloudfront.net
     - domain:ols-ww100-cp.akamaized.net
     - domain:tra-www000-cp.akamaized.net
-    # > HBO GO Asia
-    - domain:44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
-    - domain:bcbolthboa-a.akamaihd.net
-    - domain:dai3fd1oh325y.cloudfront.net
-    - domain:hboasia1-i.akamaihd.net
-    - domain:hboasia2-i.akamaihd.net
-    - domain:hboasia3-i.akamaihd.net
-    - domain:hboasia4-i.akamaihd.net
-    - domain:hboasia5-i.akamaihd.net
-    - domain:hboasialive.akamaized.net
-    - domain:hbogoprod-vod.akamaized.net
-    - domain:hbolb.onwardsmg.com
-    - domain:hbounify-prod.evergent.com
-    - domain:hbogoasia.com
-    - domain:hbogoasia.hk
     # > Bahamut Anime
     - domain:bahamut.com.tw
     - domain:gamer.com.tw
@@ -195,14 +180,6 @@ https://hkg2.edge.access.zznet.fun/dns-query:
     - domain:fxnow.fxnetworks.com
     # > TLC GO
     - domain:geolocation.onetrust.com
-    # > HBO / Max
-    - domain:max.com
-    - domain:hbo.com
-    - domain:hbogo.com
-    - domain:hbomax.com
-    - domain:hbomaxcdn.com
-    - domain:hbonow.com
-    - domain:maxgo.com
     # > Shudder
     - domain:shudder.com
     # > BritBox !Against AU/EU!
@@ -312,14 +289,6 @@ https://hkg2.edge.access.zznet.fun/dns-query:
     - domain:skyshowtime.com
     - domain:cssott.com
     - domain:4ac1dd56e493354be504f063e4ae3440a13c6776.cws.conviva.com
-    # > EU:HBO Max
-    - domain:max.com
-    - domain:cinemax.com
-    - domain:forthethrone.com
-    - domain:hbo.com
-    - domain:hbomax.com
-    - domain:hbomaxcdn.com
-    - domain:maxgo.com
     # > GB:BritBox !Against US/AU!
     - domain:vod-dash-ntham-comm-live.akamaized.net
     - domain:vod-dash-ntham-comm.live.cf.md.bbci.co.uk
@@ -440,21 +409,6 @@ https://hkg2.edge.access.zznet.fun/dns-query:
     - domain:1ok961aaca.execute-api.eu-west-1.amazonaws.com
 
     # ---------- > SouthEastAsia media
-    # > HBO GO Asia
-    - domain:44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
-    - domain:bcbolthboa-a.akamaihd.net
-    - domain:dai3fd1oh325y.cloudfront.net
-    - domain:hboasia1-i.akamaihd.net
-    - domain:hboasia2-i.akamaihd.net
-    - domain:hboasia3-i.akamaihd.net
-    - domain:hboasia4-i.akamaihd.net
-    - domain:hboasia5-i.akamaihd.net
-    - domain:hboasialive.akamaized.net
-    - domain:hbogoprod-vod.akamaized.net
-    - domain:hbolb.onwardsmg.com
-    - domain:hbounify-prod.evergent.com
-    - domain:hbogoasia.com
-    - domain:hbogoasia.hk
     # > B-Global
     - domain:bilibili.tv
     # > SG:meWATCH
