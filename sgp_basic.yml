@@ -176,7 +176,7 @@ https://hkg2.edge.access.zznet.fun/dns-query:
     # > Reads 
     - domain:data-cloudauthoring.magazine.rakuten.co.jp
 
-# ---------- > North America Media
+    # ---------- > North America Media
     # > FOX
     - domain:x-live-fox-stgec.uplynk.com
     - domain:fox.com
