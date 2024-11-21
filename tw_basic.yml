@@ -14,6 +14,14 @@ https://hkg2.edge.access.zznet.fun/dns-query:
     # > Hotstar
     - domain:hotstar.com
     - domain:hotstarext.com
+    # > Disney+
+    - domain:disney.api.edge.bamgrid.com
+    - domain:disney-plus.net
+    - domain:disneyplus.com
+    - domain:dssott.com
+    - domain:disneynow.com
+    - domain:disneystreaming.com
+    - domain:cdn.registerdisney.go.com
     
     # ---------- > Taiwan Media
     # > KKTV
