@@ -1,7 +1,7 @@
 https://hkg.core.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
-        # ---------- > Global Plaform
+    # ---------- > Global Plaform
     # > DAZN
     - domain:dazn-api.com
     - domain:dazn.com
