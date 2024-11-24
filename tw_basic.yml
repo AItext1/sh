@@ -1,16 +1,7 @@
 https://hkg2.edge.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
-        # ---------- > Global Plaform
-    # > DAZN
-    - domain:dazn-api.com
-    - domain:dazn.com
-    - domain:dazndn.com
-    - domain:indazn.com
-    - domain:d151l6v8er5bdm.cloudfront.net
-    - domain:d1sgwhnao7452x.cloudfront.net
-    - domain:dcalivedazn.akamaized.net
-    - domain:dcblivedazn.akamaized.net
+    # ---------- > Global Plaform
     # > Hotstar
     - domain:hotstar.com
     - domain:hotstarext.com
