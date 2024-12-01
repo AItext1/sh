@@ -1,13 +1,17 @@
 #!/bin/bash
 
 echo "请选择要下载的 DNS 文件:"
-echo "1) eu_basic"
+echo "1) eu"
+echo "1) kr"
 
 read -p "输入选择 (1 或 2): " choice
 
 case $choice in
   1)
-    url="https://raw.githubusercontent.com/AItext1/sh/main/eu_basic.toml"
+    url="https://raw.githubusercontent.com/AItext1/sh/main/eu_route.toml"
+    ;;  
+  2)
+    url="https://raw.githubusercontent.com/AItext1/sh/main/kr_toute.toml"
     ;;  
   *)
     echo "无效选择。退出。"
