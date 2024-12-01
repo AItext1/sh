@@ -2,7 +2,7 @@
 
 echo "请选择要下载的 DNS 文件:"
 echo "1) eu"
-echo "1) kr"
+echo "2) kr"
 
 read -p "输入选择 (1 或 2): " choice
 
