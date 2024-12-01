@@ -5,7 +5,7 @@ echo "1) sgp_basic"
 echo "2) jp_basic"
 echo "3) uk_basic"
 echo "4) kr_basic"
-echo "5) nnc_jp"
+echo "5) eu_basic"
 echo "6) us_basic"
 echo "7) hk_basic"
 echo "8) ina_hkg"
@@ -30,7 +30,7 @@ case $choice in
     url="https://raw.githubusercontent.com/AItext1/sh/main/kr_basic.yml"
     ;; 
   5)
-    url="https://raw.githubusercontent.com/AItext1/sh/main/nnc_jp.yml"
+    url="https://raw.githubusercontent.com/AItext1/sh/main/eu_basic.toml"
     ;;  
   6)
     url="https://raw.githubusercontent.com/AItext1/sh/main/us_basic.yml"
