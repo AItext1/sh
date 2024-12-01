@@ -8,10 +8,10 @@ read -p "输入选择 (1 或 2): " choice
 
 case $choice in
   1)
-    url="https://raw.githubusercontent.com/AItext1/sh/main/eu_route.toml"
+    url="https://raw.githubusercontent.com/AItext1/sh/main/route_uk"
     ;;  
   2)
-    url="https://raw.githubusercontent.com/AItext1/sh/main/kr_toute.toml"
+    url="https://raw.githubusercontent.com/AItext1/sh/main/route_kr"
     ;;  
   *)
     echo "无效选择。退出。"
