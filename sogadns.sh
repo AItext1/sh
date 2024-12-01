@@ -5,11 +5,8 @@ echo "1) sgp_basic"
 echo "2) jp_basic"
 echo "3) uk_basic"
 echo "4) kr_basic"
-echo "5) eu_basic"
 echo "6) us_basic"
 echo "7) hk_basic"
-echo "8) ina_hkg"
-echo "9) au_hkg"
 echo "10) fr_basic"
 echo "11) de_basic"
 echo "12) tw_basic"
@@ -29,21 +26,12 @@ case $choice in
   4)
     url="https://raw.githubusercontent.com/AItext1/sh/main/kr_basic.yml"
     ;; 
-  5)
-    url="https://raw.githubusercontent.com/AItext1/sh/main/eu_basic.toml"
-    ;;  
   6)
     url="https://raw.githubusercontent.com/AItext1/sh/main/us_basic.yml"
     ;;   
   7)
     url="https://raw.githubusercontent.com/AItext1/sh/main/hk_basic.yml"
-    ;;      
-  8)
-    url="https://raw.githubusercontent.com/AItext1/sh/main/ina_hkg.yml"
-    ;;    
-  9)
-    url="https://raw.githubusercontent.com/AItext1/sh/main/au_hkg.yml"
-    ;;      
+    ;;          
   10)
     url="https://raw.githubusercontent.com/AItext1/sh/main/fr_basic.yml"
     ;;        
