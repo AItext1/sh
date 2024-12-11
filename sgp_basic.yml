@@ -495,6 +495,7 @@ https://hkg2.edge.access.zznet.fun/dns-query:
     - domain:oaistatic.com
     - domain:oaiusercontent.com
     - domain:chatgpt.com
+    - domain:sora.com
     # > Claude 2
     - domain:anthropic.com
     - domain:claude.ai
