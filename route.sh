@@ -5,6 +5,7 @@ echo "1) eu"
 echo "2) kr"
 echo "3) uk"
 echo "4) us"
+echo "5) mel"
 
 read -p "输入选择 (1 或 2): " choice
 
@@ -20,7 +21,10 @@ case $choice in
     ;;  
   4)
     url="https://raw.githubusercontent.com/AItext1/sh/main/route_us"
-    ;;      
+    ;;    
+  5)
+    url="https://raw.githubusercontent.com/AItext1/sh/main/route_mel"
+    ;;     
   *)
     echo "无效选择。退出。"
     exit 1
