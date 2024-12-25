@@ -14,6 +14,14 @@ https://nrt.core.access.zznet.fun/dns-query:
     # > Hotstar
     - domain:hotstar.com
     - domain:hotstarext.com
+    # > Netflix
+    - domain:netflix.com
+    - domain:netflix.net
+    - domain:nflximg.com
+    - domain:nflximg.net
+    - domain:nflxvideo.net
+    - domain:nflxext.com
+    - domain:nflxso.net
     
     # ---------- > Taiwan Media
     # > KKTV
