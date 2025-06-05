@@ -1,6 +1,12 @@
 https://hkg2.edge.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
+    # > Youtube
+    - domain:youtube.com
+
+https://hkg2.edge.access.zznet.fun/dns-query:
+  strategy: ipv4_only
+  rules:
     # ---------- > Global Plaform
     # > Hotstar
     - domain:hotstar.com
