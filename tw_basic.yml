@@ -1,3 +1,9 @@
+66.90.115.174:     
+  strategy: ipv4_first     
+  rules:                                       
+    - domain:www.gstatic.com                                       
+    - domain:www.google.com
+
 https://hkg2.edge.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
