@@ -4,7 +4,7 @@
     - domain:www.gstatic.com                                       
     - domain:www.google.com
 
-https://hkg2.edge.access.zznet.fun/dns-query:
+https://hkg2.edge.access.zznet.fun/dns-query/else:
   strategy: ipv4_only
   rules:
     # > Youtube
