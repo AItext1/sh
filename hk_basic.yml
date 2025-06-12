@@ -4,6 +4,11 @@
     - domain:www.gstatic.com                                       
     - domain:www.google.com
     
+https://hkg.core.access.zznet.fun/dns-query/else:    
+  strategy: ipv4_first       
+  rules:      
+    - domain:youtube.com    
+    
 https://hkg.core.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
