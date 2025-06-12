@@ -1,8 +1,7 @@
-66.90.115.174:     
-  strategy: ipv4_first     
-  rules:                                       
-    - domain:www.gstatic.com                                       
-    - domain:www.google.com
+210.87.110.131:    
+  strategy: ipv4_first       
+  rules:      
+    - domain:youtube.com
 
 https://hkg2.edge.access.zznet.fun/dns-query:
   strategy: ipv4_only
