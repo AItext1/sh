@@ -1,7 +1,7 @@
-https://hkg.core.access.zznet.fun/dns-query/else:    
+209.146.104.33:    
   strategy: ipv4_first       
   rules:      
-    - domain:youtube.com    
+    - geosite:youtube
     
 https://hkg.core.access.zznet.fun/dns-query:
   strategy: ipv4_only
