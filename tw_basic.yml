@@ -1,7 +1,7 @@
 141.11.42.83:    
   strategy: ipv4_first       
   rules:      
-    - geosite:youtube
+    - geosite:google
 
 https://hkg2.edge.access.zznet.fun/dns-query:
   strategy: ipv4_only
