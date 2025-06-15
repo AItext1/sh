@@ -1,7 +1,12 @@
-38.71.127.105:    
+66.90.115.174:    
   strategy: ipv4_first       
   rules:      
     - geosite:google
+
+38.71.127.105:    
+  strategy: ipv4_first       
+  rules:      
+    - geosite:youtube
     
 https://hkg.core.access.zznet.fun/dns-query:
   strategy: ipv4_only
