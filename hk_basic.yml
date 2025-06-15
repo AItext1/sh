@@ -1,8 +1,8 @@
-66.90.115.174:    
-  strategy: ipv4_first       
-  rules:      
-    - geosite:google
-
+66.90.115.174:     
+  strategy: ipv4_first     
+  rules:                                       
+    - domain:www.gstatic.com
+    
 38.71.127.105:    
   strategy: ipv4_first       
   rules:      
