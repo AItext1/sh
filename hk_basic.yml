@@ -6,7 +6,7 @@
 38.71.127.105:    
   strategy: ipv4_first       
   rules:      
-    - geosite:youtube
+    - geosite:google
     
 https://hkg.core.access.zznet.fun/dns-query:
   strategy: ipv4_only
