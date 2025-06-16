@@ -1,0 +1,294 @@
+{"servers":
+ [ 
+ { 
+   "username": "bgp-hk",
+   "password": "davehx",
+   "name": "BGP-HK",
+   "type": "1Gbps",
+   "host": "None",
+   "location": "Hong Kong",
+   "disabled": false ,
+   "region": "HK"
+  },
+  { 
+   "username": "xbxz",
+   "password": "davehx",
+   "name": "XBXZ",
+   "type": "0.7Gbps",
+   "host": "None",
+   "location": "Hong Kong",
+   "disabled": false ,
+   "region": "HK"
+  },
+  {
+   "username": "hkbgphept",
+   "password": "davehx",
+   "name": "GZ-HK",
+   "type": "1Gbps",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },
+  {
+   "username": "hkbgp-2",
+   "password": "davehx",
+   "name": "HK-B-BGP-2",
+   "type": "2/4/5",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },
+  {
+   "username": "hkbgp-3",
+   "password": "davehx",
+   "name": "FN-HKBGP-3",
+   "type": "FN",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },
+  {
+   "username": "FDC-HK-1",
+   "password": "davehx",
+   "name": "FDC-HK-1",
+   "type": "10Gbps",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },
+  {
+   "username": "miku",
+   "password": "davehx",
+   "name": "MIKU-HK-2",
+   "type": "HKG",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },
+  {
+   "username": "FDC-HK-3",
+   "password": "davehx",
+   "name": "FDC-HK-3",
+   "type": "10Gbps",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },
+  {
+   "username": "FDC-HK-4",
+   "password": "davehx",
+   "name": "FDC-HK-4",
+   "type": "10Gbps",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },
+  {
+   "username": "FDC-HK-5",
+   "password": "davehx",
+   "name": "FDC-HK-5",
+   "type": "10Gbps",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },
+  {
+   "username": "cnfaster",
+   "password": "davehx",
+   "name": "---CNFAST---",
+   "type": "解锁",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },
+  {
+   "username": "apernet",
+   "password": "davehx",
+   "name": "---APERNET---",
+   "type": "解锁",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },
+  {
+   "username": "nube",
+   "password": "davehx",
+   "name": "---NUBE---",
+   "type": "解锁",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },
+  { 
+   "username": "FDC-SGP-1",
+   "password": "davehx",
+   "name": "SGP-A",
+   "type": "1/3/5",
+   "host": "None",
+   "location": "Singapore",
+   "disabled": false ,
+   "region": "SGP"
+  },
+  {
+   "username": "FDC-SGP-2",
+   "password": "davehx",
+   "name": "SGP-B",
+   "type": "2/4/6",
+   "host": "None",
+   "location": "Singapore",
+   "disabled": false ,
+   "region": "SGP"
+  },
+  { 
+   "username": "sgp-b",
+   "password": "davehx",
+   "name": "SGP-C",
+   "type": "7/8/9",
+   "host": "None",
+   "location": "Singapore",
+   "disabled": false ,
+   "region": "SGP"
+  },
+  {
+   "username": "FDC-TW-1",
+   "password": "davehx",
+   "name": "TW-A",
+   "type": "KVM",
+   "host": "None",
+   "location": "Taiwan",
+   "disabled": false ,
+   "region": "TW"
+  },
+  {
+   "username": "FDC-TW-2",
+   "password": "davehx",
+   "name": "TW-B",
+   "type": "BL",
+   "host": "None",
+   "location": "Taiwan",
+   "disabled": false ,
+   "region": "TW"
+  },
+  {
+   "username": "tw-a",
+   "password": "davehx",
+   "name": "TW-C",
+   "type": "KVM",
+   "host": "None",
+   "location": "Taiwan",
+   "disabled": false ,
+   "region": "TW"
+  },
+  {
+   "username": "jpa",
+   "password": "davehx",
+   "name": "JP-A",
+   "type": "BL",
+   "host": "None",
+   "location": "Japan",
+   "disabled": false ,
+   "region": "JP"
+  },
+  {
+   "username": "jpb",
+   "password": "davehx",
+   "name": "JP-B",
+   "type": "BL",
+   "host": "None",
+   "location": "Japan",
+   "disabled": false ,
+   "region": "JP"
+  },
+  {
+   "username": "us-a",
+   "password": "davehx",
+   "name": "US-A",
+   "type": "US-1/3/5",
+   "host": "None",
+   "location": "USA",
+   "disabled": false ,
+   "region": "US"
+  },
+  {
+   "username": "us-b",
+   "password": "davehx",
+   "name": "US-B",
+   "type": "US-2/4/6",
+   "host": "None",
+   "location": "USA",
+   "disabled": false ,
+   "region": "US"
+  },
+  {
+   "username": "us-c",
+   "password": "davehx",
+   "name": "US-C",
+   "type": "US-LAX",
+   "host": "None",
+   "location": "USA",
+   "disabled": false ,
+   "region": "US"
+  },
+  {
+   "username": "ussea1",
+   "password": "davehx",
+   "name": "US-D-SEA",
+   "type": "US-SEA",
+   "host": "None",
+   "location": "Hong Kong",
+   "disabled": false ,
+   "region": "HK"
+  },
+  {
+   "username": "kr",
+   "password": "davehx",
+   "name": "KR",
+   "type": "KVM",
+   "host": "None",
+   "location": "Hong Kong",
+   "disabled": false ,
+   "region": "HK"
+  },
+  {
+   "username": "uk-1",
+   "password": "davehx",
+   "name": "UK-1",
+   "type": "KVM",
+   "host": "None",
+   "location": "Hong Kong",
+   "disabled": false ,
+   "region": "HK"
+  },
+  {
+   "username": "def-1",
+   "password": "davehx",
+   "name": "DEF-1",
+   "type": "BL",
+   "host": "None",
+   "location": "Hong Kong",
+   "disabled": false ,
+   "region": "HK"
+  },
+  {
+   "username": "mel",
+   "password": "davehx",
+   "name": "AUS",
+   "type": "BL",
+   "host": "None",
+   "location": "Hong Kong",
+   "disabled": false ,
+   "region": "HK"
+  }
+ ]
+}
