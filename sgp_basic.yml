@@ -3,7 +3,7 @@
   rules:      
      - domain:www.gstatic.com
 
-66.90.115.174:     
+2606:4700:4700::1111:     
   strategy: ipv6_only    
   rules:                                       
     - geosite:google
