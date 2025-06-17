@@ -1,13 +1,8 @@
 66.90.115.174:     
-  strategy: ipv4_first     
+  strategy: ipv6_first     
   rules:                                       
-    - domain:www.gstatic.com
-    
-38.71.127.105:    
-  strategy: ipv4_first       
-  rules:      
-    - geosite:google
-    
+    - geosite:youtube
+      
 https://hkg.core.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
