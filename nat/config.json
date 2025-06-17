@@ -60,11 +60,11 @@
    "disabled": false,
    "region": "HK"
   },
-  {
-   "username": "miku",
+ {
+   "username": "FDC-HK-2",
    "password": "davehx",
-   "name": "MIKU-HK-2",
-   "type": "HKG",
+   "name": "FDC-HK-2",
+   "type": "10Gbps",
    "host": "none",
    "location": "Hongkong",
    "disabled": false,
