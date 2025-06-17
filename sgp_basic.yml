@@ -1,6 +1,11 @@
-210.87.110.131:    
+8.8.8.8:    
   strategy: ipv4_first       
-  rules: 
+  rules:      
+     - domain:www.gstatic.com
+
+66.90.115.174:     
+  strategy: ipv6_only    
+  rules:                                       
     - geosite:google
 
 https://hkg2.edge.access.zznet.fun/dns-query:
