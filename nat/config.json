@@ -111,6 +111,16 @@
    "region": "HK"
   },
   {
+   "username": "miku",
+   "password": "davehx",
+   "name": "---MIKU---",
+   "type": "解锁",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },
+  {
    "username": "apernet",
    "password": "davehx",
    "name": "---APERNET---",
