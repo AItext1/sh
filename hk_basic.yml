@@ -1,5 +1,5 @@
 66.90.115.174:     
-  strategy: ipv6_first     
+  strategy: ipv6_only    
   rules:                                       
     - geosite:youtube
       
