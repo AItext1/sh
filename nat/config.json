@@ -100,36 +100,6 @@
    "disabled": false,
    "region": "HK"
   },
-  {
-   "username": "cnfaster",
-   "password": "davehx",
-   "name": "---CNFAST---",
-   "type": "解锁",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },
-  {
-   "username": "miku",
-   "password": "davehx",
-   "name": "---MIKU---",
-   "type": "解锁",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },
-  {
-   "username": "apernet",
-   "password": "davehx",
-   "name": "---APERNET---",
-   "type": "解锁",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },
   { 
    "username": "FDC-SGP-1",
    "password": "davehx",
