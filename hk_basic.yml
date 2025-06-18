@@ -5,7 +5,7 @@
 
 38.71.127.105:    
   strategy: ipv4_first       
-    rules:
+  rules:
     - regexp:.*google\.com    
     - domain:voice.telephony.goog
     - domain:0emm.com
