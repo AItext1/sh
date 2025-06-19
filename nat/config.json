@@ -109,6 +109,16 @@
    "location": "Hongkong",
    "disabled": false,
    "region": "HK"
+  },  
+  {
+   "username": "apernet",
+   "password": "davehx",
+   "name": "APERNET",
+   "type": "---解锁---",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
   },
   { 
    "username": "FDC-SGP-1",
