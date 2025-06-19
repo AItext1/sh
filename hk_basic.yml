@@ -2,7 +2,12 @@
   strategy: ipv4_first       
   rules:      
      - domain:www.gstatic.com
-
+     
+209.146.104.33:    
+  strategy: ipv4_first       
+  rules:      
+     - domain:youtube.com
+     
 38.71.127.105:    
   strategy: ipv4_first       
   rules:
