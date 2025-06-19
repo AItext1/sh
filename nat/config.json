@@ -101,6 +101,16 @@
    "region": "HK"
   },
   {
+   "username": "hkt",
+   "password": "davehx",
+   "name": "HKT",
+   "type": "---解锁---",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },  
+  {
    "username": "cnfast",
    "password": "davehx",
    "name": "CNFAST",
