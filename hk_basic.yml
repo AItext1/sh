@@ -6,7 +6,7 @@
 209.146.104.33:    
   strategy: ipv4_first       
   rules:      
-     - domain:youtube.com
+     - geosite:youtube
      
 38.71.127.105:    
   strategy: ipv4_first       
