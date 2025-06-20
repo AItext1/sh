@@ -3,8 +3,8 @@
   rules:      
      - domain:www.gstatic.com
 
-2606:4700:4700::1111:     
-  strategy: ipv6_only    
+141.11.43.128:     
+  strategy: ipv4_first
   rules:                                       
     - geosite:google
 
