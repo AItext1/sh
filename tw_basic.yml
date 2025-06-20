@@ -7,6 +7,14 @@ akilehinet4.645781.xyz:
   strategy: ipv4_first       
   rules:      
     - geosite:google
+    # > Netflix
+    - domain:netflix.com
+    - domain:netflix.net
+    - domain:nflximg.com
+    - domain:nflximg.net
+    - domain:nflxvideo.net
+    - domain:nflxext.com
+    - domain:nflxso.net
     # > DAZN
     - domain:dazn-api.com
     - domain:dazn.com
@@ -107,14 +115,6 @@ https://hkg2.edge.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
     # ---------- > Global Plaform
-    # > Netflix
-    - domain:netflix.com
-    - domain:netflix.net
-    - domain:nflximg.com
-    - domain:nflximg.net
-    - domain:nflxvideo.net
-    - domain:nflxext.com
-    - domain:nflxso.net
 
     # ---------- > Canada Media
     # > CBC Gem
