@@ -111,11 +111,6 @@ akilehinet4.645781.xyz:
     - domain:alkalimakersuite-pa.clients6.google.com
     - domain:generativelanguage.googleapis.com
     
-https://hkg2.edge.access.zznet.fun/dns-query:
-  strategy: ipv4_only
-  rules:
-    # ---------- > Global Plaform
-
     # ---------- > Canada Media
     # > CBC Gem
     - domain:cbc.ca
