@@ -1,4 +1,4 @@
-8.8.8.8:    
+66.90.115.174:    
   strategy: ipv4_first       
   rules:      
      - domain:www.gstatic.com
