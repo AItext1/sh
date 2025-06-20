@@ -179,6 +179,16 @@
    "location": "Singapore",
    "disabled": false ,
    "region": "SGP"
+  }, 
+  {
+   "username": "akile",
+   "password": "davehx",
+   "name": "AKILE-TW",
+   "type": "---解锁---",
+   "host": "None",
+   "location": "Taiwan",
+   "disabled": false ,
+   "region": "TW"
   },
   {
    "username": "FDC-TW-1",
