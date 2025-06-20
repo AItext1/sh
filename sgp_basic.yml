@@ -3,7 +3,7 @@
   rules:      
      - domain:www.gstatic.com
 
-141.11.43.128:     
+205.198.87.24:     
   strategy: ipv4_first
   rules:                                       
     - geosite:google
