@@ -140,6 +140,16 @@
    "disabled": false,
    "region": "HK"
   },
+  {
+   "username": "sgpnube",
+   "password": "davehx",
+   "name": "NUBE-SGP",
+   "type": "---解锁---",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },  
   { 
    "username": "FDC-SGP-1",
    "password": "davehx",
@@ -160,8 +170,8 @@
    "disabled": false ,
    "region": "SGP"
   },
-  { 
-   "username": "sgp-b",
+  {
+   "username": "FDC-SGP-3",
    "password": "davehx",
    "name": "SGP-C",
    "type": "7/8/9",
