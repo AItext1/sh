@@ -251,16 +251,6 @@
    "region": "US"
   },
   {
-   "username": "us-b",
-   "password": "davehx",
-   "name": "US-B",
-   "type": "US-2/4/6",
-   "host": "None",
-   "location": "USA",
-   "disabled": false ,
-   "region": "US"
-  },
-  {
    "username": "us-c",
    "password": "davehx",
    "name": "US-C",
