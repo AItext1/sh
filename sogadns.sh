@@ -10,6 +10,7 @@ echo "6) us_basic"
 echo "7) uk_basic"
 echo "8) fr_basic"
 echo "9) de_basic"
+echo "10) CA"
 
 read -p "输入选择 (1 或 2): " choice
 
@@ -40,6 +41,9 @@ case $choice in
     ;;
   9) # de_basic
     url="https://raw.githubusercontent.com/AItext1/sh/main/de_basic.yml"
+    ;;
+  10) # CA
+    url="https://raw.githubusercontent.com/AItext1/sh/main/ca.yml"
     ;;
   *)
     echo "无效选择。退出。"
