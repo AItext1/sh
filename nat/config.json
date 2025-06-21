@@ -271,6 +271,16 @@
    "region": "HK"
   },
   {
+   "username": "ca",
+   "password": "davehx",
+   "name": "CA",
+   "type": "CA",
+   "host": "None",
+   "location": "USA",
+   "disabled": false ,
+   "region": "US"
+  },
+  {
    "username": "kr",
    "password": "davehx",
    "name": "KR",
