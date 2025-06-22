@@ -1,4 +1,4 @@
-103.137.215.29:    
+103.175.98.3:    
   strategy: ipv4_first       
   rules: 
    # ---------- > Japan Media
