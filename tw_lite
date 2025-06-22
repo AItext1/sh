@@ -1,0 +1,96 @@
+103.137.215.29:    
+  strategy: ipv4_first       
+  rules: 
+   # ---------- > Japan Media
+    # > NHK+
+    - domain:nhk.jp
+    - domain:nhk.or.jp
+    # > DMM
+    - domain:dmm-extension.com
+    - domain:dmm.co.jp
+    - domain:dmm.com
+    - domain:videomarket.jp
+    - domain:p-smith.com
+    - domain:vmdash-cenc.akamaized.net
+    - domain:img.vm-movie.jp
+    # > Abema
+    - domain:abema.io
+    - domain:abema.tv
+    - domain:ds-linear-abematv.akamaized.net
+    - domain:linear-abematv.akamaized.net
+    - domain:ds-vod-abematv.akamaized.net
+    - domain:vod-abematv.akamaized.net
+    - domain:vod-playout-abematv.akamaized.net
+    - domain:ameba.jp
+    - domain:hayabusa.io
+    - domain:bucketeer.jp
+    - domain:abema.adx.promo
+    - domain:hayabusa.media
+    - domain:abema-tv.com
+    # > NicoNico
+    - domain:dmc.nico
+    - domain:nicovideo.jp
+    - domain:nimg.jp
+    # > Telasa
+    - domain:telasa.jp
+    - domain:kddi-video.com
+    - domain:videopass.jp
+    - domain:d2lmsumy47c8as.cloudfront.net
+    # > Paravi
+    - domain:paravi.jp
+    # > U-NEXT
+    - domain:unext.jp
+    - domain:nxtv.jp
+    # > Hulu Japan
+    - domain:happyon.jp
+    - domain:hulu.jp
+    - domain:prod.hjholdings.tv
+    - domain:streaks.jp
+    - domain:yb.uncn.jp
+    - domain:hjholdings.jp
+    # > TVer
+    - domain:tver.jp
+    - domain:edge.api.brightcove.com
+    # - domain:players.brightcove.net
+    - domain:gorin.jp
+    - domain:screens-lab.jp
+    - domain:tver.co.jp
+    - domain:dogatch.jp
+    # > GYAO!
+    - domain:gyao.yahoo.co.jp
+    # > WOWOW
+    - domain:wowow.co.jp
+    # > Videomarket
+    - domain:videomarket.jp
+    # > D Anime Store
+    - domain:animestore.docomo.ne.jp
+    # > Fuji TV
+    - domain:fujitv.co.jp
+    - domain:stream.ne.jp
+    # > Radiko
+    - domain:radiko.jp
+    - domain:radionikkei.jp
+    - domain:smartstream.ne.jp
+    # > Karaoke@DAM
+    - domain:clubdam.com
+    # > J:com On Demand
+    - domain:id.zaq.ne.jp
+    # > AnimeFesta
+    - domain:api-animefesta.iowl.jp
+    # > Lemino
+    - domain:if.lemino.docomo.ne.jp
+    # > Rakuten TV JP
+    - domain:rakuten.co.jp
+    # > Games
+    - domain:cygames.jp
+    - domain:konosubafd.jp
+    - domain:colorfulpalette.org
+    - domain:worldflipper.jp
+    - domain:jujutsuphanpara.jp
+    # > Mora
+    - domain:mora.jp
+    # > Music.jp
+    - domain:music.jp
+    - domain:music-book.jp
+    # > Reads 
+    - domain:data-cloudauthoring.magazine.rakuten.co.jp
