@@ -20,16 +20,6 @@
    "disabled": false ,
    "region": "HK"
   },
-  { 
-   "username": "xbxz",
-   "password": "davehx",
-   "name": "XBXZ0.7",
-   "type": "0.7Gbps",
-   "host": "None",
-   "location": "Hong Kong",
-   "disabled": false ,
-   "region": "HK"
-  },
   {
    "username": "hkbgp-3",
    "password": "davehx",
