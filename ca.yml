@@ -31,48 +31,6 @@
     - domain:dcalivedazn.akamaized.net
     - domain:dcblivedazn.akamaized.net
 
-    # ---------- > Taiwan Media
-    # > KKTV
-    - domain:kfs.io
-    - domain:kktv-theater.kk.stream
-    - domain:kkbox.com
-    - domain:kkbox.com.tw
-    - domain:kktv.com.tw
-    - domain:kktv.me
-    # > LiTV
-    - domain:litv.tv
-    - domain:litvfreemobile-hichannel.cdn.hinet.net
-    # > MyVideo
-    - domain:cdn.plyr.io
-    - domain:myvideo.net.tw
-    # > 4GTV
-    - domain:4gtv.tv
-    - domain:4gtvfreepc-cds.cdn.hinet.net
-    - domain:4gtvfreepcvod-cds.cdn.hinet.net
-    - domain:4gtvpc-cds.cdn.hinet.net
-    - domain:4gtvpcvod-cds.cdn.hinet.net
-    # > LineTV.TW
-    - domain:d3c7rimkq79yfu.cloudfront.net
-    - domain:linetv.tw
-    # > Hami Video
-    - domain:cdn.hinet.net
-    - domain:hamivideo.hinet.net
-    - domain:scc.ott.hinet.net
-    # > CatchPlay+
-    - domain:catchplay.com
-    - domain:d2ivmxp5z2ww0n.cloudfront.net
-    - domain:ols-ww100-cp.akamaized.net
-    - domain:tra-www000-cp.akamaized.net
-    # > Bahamut Anime
-    - domain:bahamut.com.tw
-    - domain:gamer.com.tw
-    - domain:gamer-cds.cdn.hinet.net
-    - domain:gamer2-cds.cdn.hinet.net
-    # > BiliBili
-    - domain:bilibili.com
-    # > Friday Video
-    - domain:video.friday.tw
-
     
     # ---------- > Japan Media
     # > NHK+
