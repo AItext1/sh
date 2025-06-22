@@ -43,7 +43,7 @@ akilehinet4.645781.xyz:
     # > Friday Video
     - domain:video.friday.tw
     
- https://lax.core.access.zznet.fun/dns-query:
+https://lax.core.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
     # ---------- > Global Plaform
