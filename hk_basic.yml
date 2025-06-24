@@ -3,7 +3,7 @@
   rules:      
      - domain:www.gstatic.com
      
-183.179.238.86:    
+hkt.networkspeed.info:    
   strategy: ipv4_first       
   rules:      
      - geosite:google
