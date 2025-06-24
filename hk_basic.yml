@@ -1,12 +1,50 @@
 66.90.115.174:    
   strategy: ipv4_first       
   rules:      
-     - domain:www.gstatic.com
+    - domain:www.gstatic.com
      
 hkt.networkspeed.info:    
   strategy: ipv4_first       
   rules:      
-     - geosite:google
+    - geosite:google
+    
+    # ---------- > Hong Kong Media
+    # > Now E 
+    - domain:nowe.com
+    - domain:nowestatic.com
+    # > Now TV
+    - domain:now.com
+    # > Viu.TV
+    #include Viu.com
+    - domain:viu.now.com
+    - domain:viu.tv
+    # > MyTVSuper
+    - domain:mytvsuper.com
+    - domain:mytvsuperlimited.hb.omtrdc.net
+    - domain:mytvsuperlimited.sc.omtrdc.net
+    - domain:tvb.com
+    # > HBO GO Asia
+    - domain:44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+    - domain:bcbolthboa-a.akamaihd.net
+    - domain:dai3fd1oh325y.cloudfront.net
+    - domain:hboasia1-i.akamaihd.net
+    - domain:hboasia2-i.akamaihd.net
+    - domain:hboasia3-i.akamaihd.net
+    - domain:hboasia4-i.akamaihd.net
+    - domain:hboasia5-i.akamaihd.net
+    - domain:hboasialive.akamaized.net
+    - domain:hbogoprod-vod.akamaized.net
+    - domain:hbolb.onwardsmg.com
+    - domain:hbounify-prod.evergent.com
+    - domain:hbogo.co.th
+    - domain:hbogoasia.com
+    - domain:hbogoasia.hk
+    - domain:hbogoasia.id
+    - domain:hbogoasia.ph
+    - domain:hbogoasia.sg
+    - domain:hbogoasia.tw
+    # > BiliBili 
+    - domain:bilibili.com
  
 https://hkg.core.access.zznet.fun/dns-query:
   strategy: ipv4_only
@@ -50,44 +88,6 @@ https://hkg.core.access.zznet.fun/dns-query:
     - domain:nflxvideo.net
     - domain:nflxext.com
     - domain:nflxso.net
-    
-    # ---------- > Hong Kong Media
-    # > Now E 
-    - domain:nowe.com
-    - domain:nowestatic.com
-    # > Now TV
-    - domain:now.com
-    # > Viu.TV
-    #include Viu.com
-    - domain:viu.now.com
-    - domain:viu.tv
-    # > MyTVSuper
-    - domain:mytvsuper.com
-    - domain:mytvsuperlimited.hb.omtrdc.net
-    - domain:mytvsuperlimited.sc.omtrdc.net
-    - domain:tvb.com
-    # > HBO GO Asia
-    - domain:44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
-    - domain:bcbolthboa-a.akamaihd.net
-    - domain:dai3fd1oh325y.cloudfront.net
-    - domain:hboasia1-i.akamaihd.net
-    - domain:hboasia2-i.akamaihd.net
-    - domain:hboasia3-i.akamaihd.net
-    - domain:hboasia4-i.akamaihd.net
-    - domain:hboasia5-i.akamaihd.net
-    - domain:hboasialive.akamaized.net
-    - domain:hbogoprod-vod.akamaized.net
-    - domain:hbolb.onwardsmg.com
-    - domain:hbounify-prod.evergent.com
-    - domain:hbogo.co.th
-    - domain:hbogoasia.com
-    - domain:hbogoasia.hk
-    - domain:hbogoasia.id
-    - domain:hbogoasia.ph
-    - domain:hbogoasia.sg
-    - domain:hbogoasia.tw
-    # > BiliBili 
-    - domain:bilibili.com
     
     # ---------- > Taiwan Media
     # > KKTV
