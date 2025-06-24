@@ -141,10 +141,10 @@
    "region": "HK"
   },  
   {
-   "username": "apernet",
+   "username": "ytb",
    "password": "davehx",
-   "name": "APERNET",
-   "type": "---解锁---",
+   "name": "HKG-YTB",
+   "type": "YTB",
    "host": "none",
    "location": "Hongkong",
    "disabled": false,
