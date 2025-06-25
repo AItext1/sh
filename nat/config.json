@@ -61,25 +61,15 @@
    "region": "TW"
   },
   {
-   "username": "hkbgphept",
+   "username": "jpmedia",
    "password": "davehx",
-   "name": "GZ-HK1",
-   "type": "A出口",
+   "name": "JP-MEDIA",
+   "type": "---解锁---",
    "host": "none",
    "location": "Hongkong",
    "disabled": false,
    "region": "HK"
-  },
-  {
-   "username": "hkbgp-2",
-   "password": "davehx",
-   "name": "GZ-HK2",
-   "type": "B出口",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },
+  }, 
   {
    "username": "FDC-HK-1",
    "password": "davehx",
@@ -130,16 +120,6 @@
    "disabled": false,
    "region": "HK"
   }, 
-  {
-   "username": "cnfast",
-   "password": "davehx",
-   "name": "CNFAST",
-   "type": "---解锁---",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },  
   {
    "username": "ytb",
    "password": "davehx",
