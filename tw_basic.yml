@@ -2,7 +2,107 @@
   strategy: ipv4_first       
   rules:      
      - domain:www.gstatic.com
+     
+akilehinet4.645781.xyz:    
+  strategy: ipv4_first       
+  rules:      
+    - geosite:google
+    # > DAZN
+    - domain:dazn-api.com
+    - domain:dazn.com
+    - domain:dazndn.com
+    - domain:indazn.com
+    - domain:d151l6v8er5bdm.cloudfront.net
+    - domain:d1sgwhnao7452x.cloudfront.net
+    - domain:dcalivedazn.akamaized.net
+    - domain:dcblivedazn.akamaized.net
+    # > Hotstar
+    - domain:hotstar.com
+    - domain:hotstarext.comAdd commentMore actions
+    # > Disney+
+    - domain:disney.api.edge.bamgrid.com
+    - domain:disney-plus.net
+    - domain:disneyplus.com
+    - domain:dssott.com
+    - domain:disneynow.com
+    - domain:disneystreaming.com
+    - domain:cdn.registerdisney.go.com
+    # > Tiktok
+    - domain:byteoversea.com
+    - domain:ibytedtos.com
+    - domain:ipstatp.com
+    - domain:muscdn.com
+    - domain:musical.ly
+    - domain:tiktok.com
+    - domain:tik-tokapi.com
+    - domain:tiktokcdn.com
+    - domain:tiktokv.com
+    
+    # ---------- > Taiwan Media
+    # > KKTV
+    - domain:kfs.io
+    - domain:kktv-theater.kk.stream
+    - domain:kkbox.com
+    - domain:kkbox.com.tw
+    - domain:kktv.com.tw
+    - domain:kktv.me
+    # > LiTV
+    - domain:litv.tv
+    - domain:litvfreemobile-hichannel.cdn.hinet.net
+    # > MyVideo
+    - domain:cdn.plyr.io
+    - domain:myvideo.net.tw
+    # > 4GTV
+    - domain:4gtv.tv
+    - domain:4gtvfreepc-cds.cdn.hinet.net
+    - domain:4gtvfreepcvod-cds.cdn.hinet.net
+    - domain:4gtvpc-cds.cdn.hinet.net
+    - domain:4gtvpcvod-cds.cdn.hinet.net
+    # > LineTV.TW
+    - domain:d3c7rimkq79yfu.cloudfront.net
+    - domain:linetv.tw
+    # > Hami Video
+    - domain:cdn.hinet.net
+    - domain:hamivideo.hinet.net
+    - domain:scc.ott.hinet.net
+    # > CatchPlay+
+    - domain:catchplay.com
+    - domain:d2ivmxp5z2ww0n.cloudfront.net
+    - domain:ols-ww100-cp.akamaized.net
+    - domain:tra-www000-cp.akamaized.net
+    # > Bahamut Anime
+    - domain:bahamut.com.tw
+    - domain:gamer.com.tw
+    - domain:gamer-cds.cdn.hinet.net
+    - domain:gamer2-cds.cdn.hinet.net
+    # > BiliBili
+    - domain:bilibili.com
+    # > Friday Video
+    - domain:video.friday.tw
 
+    # ---------- > Others
+    # > Openai
+    - domain:openai.com
+    - domain:oaistatic.comAdd commentMore actions
+    - domain:oaiusercontent.com
+    - domain:chatgpt.com
+    - domain:sora.com
+    # > Claude 2
+    - domain:anthropic.com
+    - domain:claude.ai
+    # > ExHantai/E-hentai
+    - domain:exhentai.org
+    - domain:e-hentai.org
+    # > Google Bard
+    - domain:gemini.google.com
+    - domain:proactivebackend-pa.googleapis.com
+    # > Microsoft Copilot For Image Generates
+    - domain:copilot.microsoft.com
+    # > Google AiStudio
+    - domain:aistudio.google.com
+    - domain:alkalimakersuite-pa.clients6.google.com
+    - domain:generativelanguage.googleapis.com
+    
 https://hkg2.edge.access.zznet.fun/dns-query:   
   strategy: ipv4_first       
   rules:  
@@ -443,104 +543,3 @@ https://hkg2.edge.access.zznet.fun/dns-query:
     # > BiliBili 
     - domain:bilibili.com
 
-akilehinet4.645781.xyz:    
-  strategy: ipv4_first       
-  rules:      
-    - geosite:google
-    # > DAZN
-    - domain:dazn-api.com
-    - domain:dazn.com
-    - domain:dazndn.com
-    - domain:indazn.com
-    - domain:d151l6v8er5bdm.cloudfront.net
-    - domain:d1sgwhnao7452x.cloudfront.net
-    - domain:dcalivedazn.akamaized.net
-    - domain:dcblivedazn.akamaized.net
-    # > Hotstar
-    - domain:hotstar.com
-    - domain:hotstarext.comAdd commentMore actions
-    # > Disney+
-    - domain:disney.api.edge.bamgrid.com
-    - domain:disney-plus.net
-    - domain:disneyplus.com
-    - domain:dssott.com
-    - domain:disneynow.com
-    - domain:disneystreaming.com
-    - domain:cdn.registerdisney.go.com
-    # > Tiktok
-    - domain:byteoversea.com
-    - domain:ibytedtos.com
-    - domain:ipstatp.com
-    - domain:muscdn.com
-    - domain:musical.ly
-    - domain:tiktok.com
-    - domain:tik-tokapi.com
-    - domain:tiktokcdn.com
-    - domain:tiktokv.com
-    
-    # ---------- > Taiwan Media
-    # > KKTV
-    - domain:kfs.io
-    - domain:kktv-theater.kk.stream
-    - domain:kkbox.com
-    - domain:kkbox.com.tw
-    - domain:kktv.com.tw
-    - domain:kktv.me
-    # > LiTV
-    - domain:litv.tv
-    - domain:litvfreemobile-hichannel.cdn.hinet.net
-    # > MyVideo
-    - domain:cdn.plyr.io
-    - domain:myvideo.net.tw
-    # > 4GTV
-    - domain:4gtv.tv
-    - domain:4gtvfreepc-cds.cdn.hinet.net
-    - domain:4gtvfreepcvod-cds.cdn.hinet.net
-    - domain:4gtvpc-cds.cdn.hinet.net
-    - domain:4gtvpcvod-cds.cdn.hinet.net
-    # > LineTV.TW
-    - domain:d3c7rimkq79yfu.cloudfront.net
-    - domain:linetv.tw
-    # > Hami Video
-    - domain:cdn.hinet.net
-    - domain:hamivideo.hinet.net
-    - domain:scc.ott.hinet.net
-    # > CatchPlay+
-    - domain:catchplay.com
-    - domain:d2ivmxp5z2ww0n.cloudfront.net
-    - domain:ols-ww100-cp.akamaized.net
-    - domain:tra-www000-cp.akamaized.net
-    # > Bahamut Anime
-    - domain:bahamut.com.tw
-    - domain:gamer.com.tw
-    - domain:gamer-cds.cdn.hinet.net
-    - domain:gamer2-cds.cdn.hinet.net
-    # > BiliBili
-    - domain:bilibili.com
-    # > Friday Video
-    - domain:video.friday.tw
-
-    # ---------- > Others
-    # > Openai
-    - domain:openai.com
-    - domain:oaistatic.comAdd commentMore actions
-    - domain:oaiusercontent.com
-    - domain:chatgpt.com
-    - domain:sora.com
-    # > Claude 2
-    - domain:anthropic.com
-    - domain:claude.ai
-    # > ExHantai/E-hentai
-    - domain:exhentai.org
-    - domain:e-hentai.org
-    # > Google Bard
-    - domain:gemini.google.com
-    - domain:proactivebackend-pa.googleapis.com
-    # > Microsoft Copilot For Image Generates
-    - domain:copilot.microsoft.com
-    # > Google AiStudio
-    - domain:aistudio.google.com
-    - domain:alkalimakersuite-pa.clients6.google.com
-    - domain:generativelanguage.googleapis.com
-    
-   
