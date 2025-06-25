@@ -259,6 +259,16 @@
    "location": "Hong Kong",
    "disabled": false ,
    "region": "HK"
+  }, 
+  {
+   "username": "cnfast",
+   "password": "davehx",
+   "name": "欧洲中转",
+   "type": "KVM",
+   "host": "None",
+   "location": "Hong Kong",
+   "disabled": false ,
+   "region": "HK"
   },
   {
    "username": "uk-1",
@@ -275,6 +285,16 @@
    "password": "davehx",
    "name": "DEF-1",
    "type": "BL",
+   "host": "None",
+   "location": "Hong Kong",
+   "disabled": false ,
+   "region": "HK"
+  },
+  {
+   "username": "fr-1",
+   "password": "davehx",
+   "name": "FR",
+   "type": "KVM",
    "host": "None",
    "location": "Hong Kong",
    "disabled": false ,
