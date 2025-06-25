@@ -273,7 +273,7 @@
   {
    "username": "uk-1",
    "password": "davehx",
-   "name": "UK-1",
+   "name": "UK",
    "type": "KVM",
    "host": "None",
    "location": "Hong Kong",
@@ -283,7 +283,7 @@
   {
    "username": "def-1",
    "password": "davehx",
-   "name": "DEF-1",
+   "name": "GEM",
    "type": "BL",
    "host": "None",
    "location": "Hong Kong",
@@ -303,7 +303,7 @@
   {
    "username": "mel",
    "password": "davehx",
-   "name": "AUS",
+   "name": "MEL",
    "type": "BL",
    "host": "None",
    "location": "Hong Kong",
