@@ -11,10 +11,10 @@
    "region": "HK"
   },
   { 
-   "username": "xbxz1.3",
+   "username": "xbxz",
    "password": "davehx",
-   "name": "XBXZ1.3",
-   "type": "1.3Gbps",
+   "name": "XBXZ",
+   "type": "2Gbps",
    "host": "None",
    "location": "Hong Kong",
    "disabled": false ,
@@ -33,7 +33,7 @@
   {
    "username": "hkt",
    "password": "davehx",
-   "name": "HKT",
+   "name": "HKBN",
    "type": "---解锁---",
    "host": "none",
    "location": "Hongkong",
