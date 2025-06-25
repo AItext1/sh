@@ -6,7 +6,7 @@ echo "2) tw_lite"
 echo "3) sgp_lite"
 echo "4) jp_lite"
 echo "5) us_lite"
-echo "5) us-c_lite"
+echo "6) us-c_lite"
 
 read -p "输入选择 (1 或 2): " choice
 
