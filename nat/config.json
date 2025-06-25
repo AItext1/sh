@@ -73,7 +73,7 @@
   {
    "username": "FDC-HK-1",
    "password": "davehx",
-   "name": "FDC-HK-1",
+   "name": "FDC-HK-A",
    "type": "10Gbps",
    "host": "none",
    "location": "Hongkong",
@@ -83,7 +83,7 @@
  {
    "username": "FDC-HK-2",
    "password": "davehx",
-   "name": "FDC-HK-2",
+   "name": "FDC-HK-B",
    "type": "10Gbps",
    "host": "none",
    "location": "Hongkong",
@@ -93,7 +93,7 @@
   {
    "username": "FDC-HK-3",
    "password": "davehx",
-   "name": "FDC-HK-3",
+   "name": "FDC-HK-C",
    "type": "10Gbps",
    "host": "none",
    "location": "Hongkong",
@@ -103,7 +103,7 @@
   {
    "username": "FDC-HK-4",
    "password": "davehx",
-   "name": "FDC-HK-4",
+   "name": "FDC-HK-D",
    "type": "10Gbps",
    "host": "none",
    "location": "Hongkong",
@@ -113,7 +113,7 @@
   {
    "username": "FDC-HK-5",
    "password": "davehx",
-   "name": "FDC-HK-5",
+   "name": "FDC-HK-E",
    "type": "10Gbps",
    "host": "none",
    "location": "Hongkong",
@@ -123,7 +123,7 @@
   {
    "username": "ytb",
    "password": "davehx",
-   "name": "HKG-YTB",
+   "name": "FDC-HK-F",
    "type": "YTB",
    "host": "none",
    "location": "Hongkong",
