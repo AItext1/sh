@@ -12,6 +12,7 @@ echo "8) fr_basic"
 echo "9) de_basic"
 echo "10) CA"
 echo "11) MEL"
+echo "12) HK_YTB"
 
 read -p "输入选择 (1 或 2): " choice
 
@@ -48,6 +49,9 @@ case $choice in
     ;;  
   11) # MEL
     url="https://raw.githubusercontent.com/AItext1/sh/main/all_mel.yml"
+    ;;  
+  12) # hk_ytb
+    url="https://raw.githubusercontent.com/AItext1/sh/main/all_hk_ytb.yml"
     ;;
   *)
     echo "无效选择。退出。"
