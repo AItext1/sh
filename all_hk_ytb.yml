@@ -19,16 +19,6 @@ hkt.networkspeed.info:
     # > Hotstar
     - domain:hotstar.com
     - domain:hotstarext.com
-    # > Tiktok
-    - domain:byteoversea.com
-    - domain:ibytedtos.com
-    - domain:ipstatp.com
-    - domain:muscdn.com
-    - domain:musical.ly
-    - domain:tiktok.com
-    - domain:tik-tokapi.com
-    - domain:tiktokcdn.com
-    - domain:tiktokv.com
     # > Disney+
     - domain:disney.api.edge.bamgrid.com
     - domain:disney-plus.net
@@ -87,6 +77,17 @@ hkt.networkspeed.info:
 akilehinet4.645781.xyz:    
   strategy: ipv4_first       
   rules: 
+     # > Tiktok
+    - domain:byteoversea.com
+    - domain:ibytedtos.com
+    - domain:ipstatp.com
+    - domain:muscdn.com
+    - domain:musical.ly
+    - domain:tiktok.com
+    - domain:tik-tokapi.com
+    - domain:tiktokcdn.com
+    - domain:tiktokv.com
+    
     # ---------- > Taiwan Media
     # > KKTV
     - domain:kfs.io
