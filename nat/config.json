@@ -21,16 +21,6 @@
    "region": "HK"
   },
   {
-   "username": "hkbgp-3",
-   "password": "davehx",
-   "name": "GZ-HK3",
-   "type": "1Gbps",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },
-  {
    "username": "hkt",
    "password": "davehx",
    "name": "HKBN",
