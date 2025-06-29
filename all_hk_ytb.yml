@@ -74,7 +74,7 @@ hkt.networkspeed.info:
     # > BiliBili 
     - domain:bilibili.com
  
-akilehinet4.645781.xyz:    
+twmedia.networkspeed.info:    
   strategy: ipv4_first       
   rules: 
      # > Tiktok
