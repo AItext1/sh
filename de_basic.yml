@@ -95,7 +95,7 @@ jpmedia.networkspeed.info:
     # > Reads 
     - domain:data-cloudauthoring.magazine.rakuten.co.jp
     
-akilehinet4.645781.xyz:    
+twmedia.networkspeed.info:    
   strategy: ipv4_first       
   rules: 
     # ---------- > Taiwan Media
