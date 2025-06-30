@@ -231,6 +231,16 @@
    "region": "HK"
   },
   {
+   "username": "us-d",
+   "password": "davehx",
+   "name": "US-D",
+   "type": "US-5",
+   "host": "None",
+   "location": "Hong Kong",
+   "disabled": false ,
+   "region": "HK"
+  },
+  {
    "username": "ca",
    "password": "davehx",
    "name": "CA",
