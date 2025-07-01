@@ -3,7 +3,7 @@
   rules:      
     - domain:www.gstatic.com
      
-hkt.networkspeed.info:    
+hkmedia.networkspeed.info:    
   strategy: ipv4_first       
   rules:      
     - geosite:google
