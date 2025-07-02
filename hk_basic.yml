@@ -2,6 +2,11 @@
   strategy: ipv4_first       
   rules:      
     - domain:www.gstatic.com
+    
+2001:4860:4860::8888:    
+  strategy: ipv6_first       
+  rules:      
+    - geosite:youtube
      
 hkmedia.networkspeed.info:    
   strategy: ipv4_first       
