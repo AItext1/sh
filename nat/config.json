@@ -191,6 +191,16 @@
    "region": "TW"
   },
   {
+   "username": "jpaws",
+   "password": "davehx",
+   "name": "JP-AWS",
+   "type": "10Gbps",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  }, 
+  {
    "username": "jpa",
    "password": "davehx",
    "name": "JP-A",
