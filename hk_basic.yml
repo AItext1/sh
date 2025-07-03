@@ -2,17 +2,11 @@
   strategy: ipv4_first       
   rules:      
     - domain:www.gstatic.com
-    
-8.8.8.8:    
-  strategy: ipv4_only       
-  rules:      
-    - geosite:youtube
-     
+   
 hkmedia.networkspeed.info:    
   strategy: ipv4_first       
   rules:      
-    - geosite:google
-    
+    - geosite:google    
     # ---------- > Hong Kong Media
     # > Now E 
     - domain:nowe.com
