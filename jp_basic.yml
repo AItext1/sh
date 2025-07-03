@@ -18,6 +18,20 @@ jpmedia.networkspeed.info:
     - domain:nflxvideo.net
     - domain:nflxext.com
     - domain:nflxso.net
+    # > Abema
+    - domain:abema.io
+    - domain:abema.tv
+    - domain:ds-linear-abematv.akamaized.net
+    - domain:linear-abematv.akamaized.net
+    - domain:ds-vod-abematv.akamaized.net
+    - domain:vod-abematv.akamaized.net
+    - domain:vod-playout-abematv.akamaized.net
+    - domain:ameba.jp
+    - domain:hayabusa.io
+    - domain:bucketeer.jp
+    - domain:abema.adx.promo
+    - domain:hayabusa.media
+    - domain:abema-tv.com
 
 hkmedia.networkspeed.info:    
   strategy: ipv4_first       
