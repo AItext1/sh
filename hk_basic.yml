@@ -6,7 +6,7 @@
 hkmedia.networkspeed.info:    
   strategy: ipv4_first       
   rules:      
-    - geosite:google    
+    - geosite:youtube    
     # ---------- > Hong Kong Media
     # > Now E 
     - domain:nowe.com
