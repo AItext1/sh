@@ -21,25 +21,25 @@
    "region": "HK"
   },
   {
-   "username": "cnfast",
-   "password": "davehx",
-   "name": "欧洲中转",
-   "type": "KVM",
-   "host": "None",
-   "location": "Hong Kong",
-   "disabled": false ,
-   "region": "HK"
-  },
-  {
    "username": "hkt",
    "password": "davehx",
-   "name": "HKBN",
+   "name": "HK-A",
    "type": "---解锁---",
    "host": "none",
    "location": "Hongkong",
    "disabled": false,
    "region": "HK"
   }, 
+  {
+   "username": "miku",
+   "password": "davehx",
+   "name": "HK-B",
+   "type": "KVM",
+   "host": "None",
+   "location": "Hong Kong",
+   "disabled": false ,
+   "region": "HK"
+  },
   {
    "username": "sgpnube",
    "password": "davehx",
@@ -255,6 +255,16 @@
    "password": "davehx",
    "name": "US-D",
    "type": "US-5",
+   "host": "None",
+   "location": "Hong Kong",
+   "disabled": false ,
+   "region": "HK"
+  },
+  {
+   "username": "cnfast",
+   "password": "davehx",
+   "name": "欧洲中转",
+   "type": "KVM",
    "host": "None",
    "location": "Hong Kong",
    "disabled": false ,
