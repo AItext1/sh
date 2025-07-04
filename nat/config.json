@@ -31,16 +31,6 @@
    "region": "HK"
   }, 
   {
-   "username": "miku",
-   "password": "davehx",
-   "name": "HK-B",
-   "type": "MIKU",
-   "host": "None",
-   "location": "Hong Kong",
-   "disabled": false ,
-   "region": "HK"
-  },
-  {
    "username": "sgpnube",
    "password": "davehx",
    "name": "NUBE-SGP",
