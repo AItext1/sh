@@ -6,7 +6,7 @@
 205.198.87.24:     
   strategy: ipv4_first
   rules:                                       
-    - geosite:google
+    - geosite:youtube
 
 https://hkg2.edge.access.zznet.fun/dns-query:
   strategy: ipv4_only
