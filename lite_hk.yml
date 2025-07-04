@@ -1,0 +1,45 @@
+https://hkg.core.access.zznet.fun/dns-query:
+  strategy: ipv4_only
+  rules:
+    # ---------- > Global Plaform
+    # > Tiktok
+    - domain:byteoversea.com
+    - domain:ibytedtos.com
+    - domain:ipstatp.com
+    - domain:muscdn.com
+    - domain:musical.ly
+    - domain:tiktok.com
+    - domain:tik-tokapi.com
+    - domain:tiktokcdn.com
+    - domain:tiktokv.com
+    # > Netflix
+    - domain:netflix.com
+    - domain:netflix.net
+    - domain:nflximg.com
+    - domain:nflximg.net
+    - domain:nflxvideo.net
+    - domain:nflxext.com
+    - domain:nflxso.net
+
+    # ---------- > Others
+    # > Openai
+    - domain:openai.com
+    - domain:oaistatic.com
+    - domain:oaiusercontent.com
+    - domain:chatgpt.com
+    - domain:sora.com
+    # > Claude 2
+    - domain:anthropic.com
+    - domain:claude.ai
+    # > ExHantai/E-hentai
+    - domain:exhentai.org
+    - domain:e-hentai.org
+    # > Google Bard
+    - domain:gemini.google.com
+    - domain:proactivebackend-pa.googleapis.com
+    # > Microsoft Copilot For Image Generates
+    - domain:copilot.microsoft.com
+    # > Google AiStudio
+    - domain:aistudio.google.com
+    - domain:alkalimakersuite-pa.clients6.google.com
+    - domain:generativelanguage.googleapis.com
