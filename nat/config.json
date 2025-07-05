@@ -24,7 +24,17 @@
    "username": "hkt",
    "password": "davehx",
    "name": "HK-A",
-   "type": "HKBN",
+   "type": "HKBN 2.5G",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  }, 
+  {
+   "username": "hkt2",
+   "password": "davehx",
+   "name": "HK-B",
+   "type": "HKT 1G",
    "host": "none",
    "location": "Hongkong",
    "disabled": false,
