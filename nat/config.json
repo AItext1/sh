@@ -171,16 +171,6 @@
    "region": "TW"
   },
   {
-   "username": "tw-a",
-   "password": "davehx",
-   "name": "TW-C",
-   "type": "KVM",
-   "host": "None",
-   "location": "Taiwan",
-   "disabled": false ,
-   "region": "TW"
-  },
-  {
    "username": "jpaws",
    "password": "davehx",
    "name": "JP-AWS",
