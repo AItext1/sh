@@ -41,76 +41,6 @@
    "region": "HK"
   }, 
   {
-   "username": "sgpnube",
-   "password": "davehx",
-   "name": "NUBE-SGP",
-   "type": "---解锁---",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },    
-  {
-   "username": "akile",
-   "password": "davehx",
-   "name": "AKILE-TW",
-   "type": "---解锁---",
-   "host": "None",
-   "location": "Taiwan",
-   "disabled": false ,
-   "region": "TW"
-  },
-  {
-   "username": "jpmedia",
-   "password": "davehx",
-   "name": "JP-MEDIA",
-   "type": "---解锁---",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  }, 
-  {
-   "username": "FDC-HK-1",
-   "password": "davehx",
-   "name": "FDC-HK-A",
-   "type": "10Gbps",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },
- {
-   "username": "FDC-HK-2",
-   "password": "davehx",
-   "name": "FDC-HK-B",
-   "type": "10Gbps",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },
-  {
-   "username": "FDC-HK-3",
-   "password": "davehx",
-   "name": "FDC-HK-C",
-   "type": "10Gbps",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },
-  {
-   "username": "FDC-HK-4",
-   "password": "davehx",
-   "name": "FDC-HK-D",
-   "type": "10Gbps",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },
-  {
    "username": "FDC-HK-5",
    "password": "davehx",
    "name": "FDC-HK-E",
@@ -240,6 +170,36 @@
    "disabled": false ,
    "region": "HK"
   },
+  {
+   "username": "sgpnube",
+   "password": "davehx",
+   "name": "NUBE-SGP",
+   "type": "---解锁---",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },    
+  {
+   "username": "akile",
+   "password": "davehx",
+   "name": "AKILE-TW",
+   "type": "---解锁---",
+   "host": "None",
+   "location": "Taiwan",
+   "disabled": false ,
+   "region": "TW"
+  },
+  {
+   "username": "jpmedia",
+   "password": "davehx",
+   "name": "JP-MEDIA",
+   "type": "---解锁---",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  }, 
   {
    "username": "cnfast",
    "password": "davehx",
