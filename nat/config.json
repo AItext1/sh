@@ -41,10 +41,10 @@
    "region": "HK"
   }, 
   {
-   "username": "FDC-HK-5",
+   "username": "hk-e",
    "password": "davehx",
-   "name": "FDC-HK-E",
-   "type": "10Gbps",
+   "name": "HK-E",
+   "type": "2Gbps",
    "host": "none",
    "location": "Hongkong",
    "disabled": false,
