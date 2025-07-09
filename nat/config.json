@@ -119,6 +119,16 @@
    "location": "Taiwan",
    "disabled": false ,
    "region": "TW"
+  },  
+  {
+   "username": "jp-vultr",
+   "password": "davehx",
+   "name": "JP-VULTR",
+   "type": "JP-1/3",
+   "host": "None",
+   "location": "Japan",
+   "disabled": false ,
+   "region": "JP"
   },
   {
    "username": "jpa",
@@ -134,7 +144,7 @@
    "username": "jpb",
    "password": "davehx",
    "name": "JP-B",
-   "type": "BL",
+   "type": "JP-2/4",
    "host": "None",
    "location": "Japan",
    "disabled": false ,
