@@ -121,10 +121,10 @@
    "region": "TW"
   },  
   {
-   "username": "jp-vultr",
+   "username": "jp-nube",
    "password": "davehx",
-   "name": "JP-VULTR",
-   "type": "JP-1/3",
+   "name": "JP-NUBE",
+   "type": " 日本中转",
    "host": "None",
    "location": "Japan",
    "disabled": false ,
