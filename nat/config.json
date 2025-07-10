@@ -119,7 +119,17 @@
    "location": "Taiwan",
    "disabled": false ,
    "region": "TW"
-  },  
+  },
+  {
+   "username": "hkg-nube",
+   "password": "davehx",
+   "name": "HKG-NUBE",
+   "type": " 香港中转",
+   "host": "None",
+   "location": "Japan",
+   "disabled": false ,
+   "region": "JP"
+  },
   {
    "username": "jp-nube",
    "password": "davehx",
