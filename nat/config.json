@@ -151,6 +151,16 @@
    "region": "JP"
   },
   {
+   "username": "us-nube",
+   "password": "davehx",
+   "name": "US-NUBE",
+   "type": " 美国中转",
+   "host": "None",
+   "location": "Japan",
+   "disabled": false ,
+   "region": "JP"
+  },
+  {
    "username": "us-a",
    "password": "davehx",
    "name": "US-A",
