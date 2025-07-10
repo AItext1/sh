@@ -141,6 +141,16 @@
    "region": "JP"
   },
   {
+   "username": "us-nube",
+   "password": "davehx",
+   "name": "US-NUBE",
+   "type": " 美国中转",
+   "host": "None",
+   "location": "Japan",
+   "disabled": false ,
+   "region": "JP"
+  },
+  {
    "username": "jpa",
    "password": "davehx",
    "name": "JP-A",
@@ -155,16 +165,6 @@
    "password": "davehx",
    "name": "JP-B",
    "type": "JP-2/4",
-   "host": "None",
-   "location": "Japan",
-   "disabled": false ,
-   "region": "JP"
-  },
-  {
-   "username": "us-nube",
-   "password": "davehx",
-   "name": "US-NUBE",
-   "type": " 美国中转",
    "host": "None",
    "location": "Japan",
    "disabled": false ,
