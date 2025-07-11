@@ -21,6 +21,16 @@
    "region": "HK"
   },
   {
+   "username": "hk-a",
+   "password": "davehx",
+   "name": "HKG-XBXZ",
+   "type": "HKG 中转",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  }, 
+  {
    "username": "hkt",
    "password": "davehx",
    "name": "HK-A",
@@ -34,32 +44,12 @@
    "username": "hkt2",
    "password": "davehx",
    "name": "HK-B",
-   "type": "HK-2/6/4/8",
+   "type": "HK-2/6",
    "host": "none",
    "location": "Hongkong",
    "disabled": false,
    "region": "HK"
   }, 
-  {
-   "username": "hk-a",
-   "password": "davehx",
-   "name": "HKG-XBXZ",
-   "type": "HKG 中转",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  }, 
-  {
-   "username": "hk-b",
-   "password": "davehx",
-   "name": "HK-B",
-   "type": "HK-2/4",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },  
   {
    "username": "hk-c",
    "password": "davehx",
@@ -141,15 +131,15 @@
    "region": "TW"
   },
   {
-   "username": "FDC-TW-2",
+   "username": "hk-b",
    "password": "davehx",
    "name": "TW-B",
-   "type": "BL",
-   "host": "None",
-   "location": "Taiwan",
-   "disabled": false ,
-   "region": "TW"
-  },
+   "type": "TW-2/4",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },  
   {
    "username": "hkg-nube",
    "password": "davehx",
