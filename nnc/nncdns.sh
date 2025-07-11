@@ -9,13 +9,13 @@ read -p "输入选择 (1 或 2): " choice
 
 case $choice in
   1) # hk_basic
-    url="https://raw.githubusercontent.com/AItext1/sh/main/hk_basic.yml"
+    url="https://raw.githubusercontent.com/AItext1/sh/refs/heads/main/nnc/hk_basic.yml"
     ;;
   2) # tw_basic
-    url="https://raw.githubusercontent.com/AItext1/sh/main/tw_basic.yml"
+    url="https://raw.githubusercontent.com/AItext1/sh/refs/heads/main/nnc/tw_basic.yml"
     ;;
   3) # sgp_basic
-    url="https://raw.githubusercontent.com/AItext1/sh/main/sgp_basic.yml"
+    url="https://raw.githubusercontent.com/AItext1/sh/refs/heads/main/nnc/sgp_basic.yml"
     ;;
   *)
     echo "无效选择。退出。"
