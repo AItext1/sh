@@ -33,7 +33,7 @@
   {
    "username": "hkt",
    "password": "davehx",
-   "name": "HKBN",
+   "name": "HKBN-HK-A",
    "type": "HK-1",
    "host": "none",
    "location": "Hongkong",
@@ -43,7 +43,7 @@
   {
    "username": "hkt2",
    "password": "davehx",
-   "name": "HKT",
+   "name": "HKT-HK-B",
    "type": "HK-2/6",
    "host": "none",
    "location": "Hongkong",
