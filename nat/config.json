@@ -41,6 +41,26 @@
    "region": "HK"
   }, 
   {
+   "username": "hk-a",
+   "password": "davehx",
+   "name": "HKG-XBXZ",
+   "type": "HKG 中转",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  }, 
+  {
+   "username": "hk-b",
+   "password": "davehx",
+   "name": "HK-B",
+   "type": "HK-2/4",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },  
+  {
    "username": "hk-c",
    "password": "davehx",
    "name": "HK-C",
@@ -49,7 +69,17 @@
    "location": "Hongkong",
    "disabled": false,
    "region": "HK"
-  }, 
+  },   
+  {
+   "username": "hk-d",
+   "password": "davehx",
+   "name": "HK-D",
+   "type": "HK-4/8",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },   
   {
    "username": "hk-e",
    "password": "davehx",
@@ -71,20 +101,20 @@
    "region": "HK"
   },
   { 
-   "username": "FDC-SGP-1",
+   "username": "sgp-a",
    "password": "davehx",
    "name": "SGP-A",
-   "type": "1/3/5",
+   "type": "SGP-1/4",
    "host": "None",
    "location": "Singapore",
    "disabled": false ,
    "region": "SGP"
   },
   {
-   "username": "FDC-SGP-2",
+   "username": "sgp-b",
    "password": "davehx",
    "name": "SGP-B",
-   "type": "2/4/6",
+   "type": "SGP-2/5",
    "host": "None",
    "location": "Singapore",
    "disabled": false ,
@@ -94,17 +124,17 @@
    "username": "FDC-SGP-3",
    "password": "davehx",
    "name": "SGP-C",
-   "type": "7/8/9",
+   "type": "SGP-7/8/9",
    "host": "None",
    "location": "Singapore",
    "disabled": false ,
    "region": "SGP"
   }, 
   {
-   "username": "FDC-TW-1",
+   "username": "tw-a",
    "password": "davehx",
    "name": "TW-A",
-   "type": "KVM",
+   "type": "TW-1/3",
    "host": "None",
    "location": "Taiwan",
    "disabled": false ,
