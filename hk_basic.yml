@@ -1,13 +1,3 @@
-66.90.115.174:    
-  strategy: ipv4_first       
-  rules:      
-    - domain:www.gstatic.com
-   
-https://hkg.core.access.zznet.fun/dns-query/else:    
-  strategy: ipv4_first       
-  rules:      
-    - geosite:youtube    
- 
 https://hkg.core.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
@@ -42,14 +32,6 @@ https://hkg.core.access.zznet.fun/dns-query:
     - domain:disneynow.com
     - domain:disneystreaming.com
     - domain:cdn.registerdisney.go.com
-    # > Netflix
-    - domain:netflix.com
-    - domain:netflix.net
-    - domain:nflximg.com
-    - domain:nflximg.net
-    - domain:nflxvideo.net
-    - domain:nflxext.com
-    - domain:nflxso.net
    
     # ---------- > Hong Kong Media
     # > Now E 
