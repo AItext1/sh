@@ -10,21 +10,11 @@
    "disabled": false ,
    "region": "HK"
   },
-  { 
-   "username": "xbxz",
-   "password": "davehx",
-   "name": "XBXZ",
-   "type": "2Gbps",
-   "host": "None",
-   "location": "Hong Kong",
-   "disabled": false ,
-   "region": "HK"
-  },
   {
    "username": "hk-a",
    "password": "davehx",
    "name": "HKG-XBXZ",
-   "type": "HKG 中转",
+   "type": "XBXZ",
    "host": "none",
    "location": "Hongkong",
    "disabled": false,
