@@ -1,3 +1,17 @@
+twmedia.networkspeed.info:    
+  strategy: ipv4_first       
+  rules: 
+    # > Tiktok
+    - domain:byteoversea.com
+    - domain:ibytedtos.com
+    - domain:ipstatp.com
+    - domain:muscdn.com
+    - domain:musical.ly
+    - domain:tiktok.com
+    - domain:tik-tokapi.com
+    - domain:tiktokcdn.com
+    - domain:tiktokv.com
+
 154.83.83.84:
   strategy: ipv4_only
   rules:
