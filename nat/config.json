@@ -51,9 +51,9 @@
    "region": "HK"
   }, 
   {
-   "username": "hk-c",
+   "username": "nnc-hk-c",
    "password": "davehx",
-   "name": "XB-HK-C",
+   "name": "NNC-HK-C",
    "type": "HK-3/7",
    "host": "none",
    "location": "Hongkong",
@@ -61,9 +61,9 @@
    "region": "HK"
   },   
   {
-   "username": "hk-d",
+   "username": "nnc-hk-d",
    "password": "davehx",
-   "name": "XB-HK-D",
+   "name": "NNC-HK-D",
    "type": "HK-4/8",
    "host": "none",
    "location": "Hongkong",
@@ -71,9 +71,9 @@
    "region": "HK"
   },   
   {
-   "username": "hk-e",
+   "username": "nnc-hk-e",
    "password": "davehx",
-   "name": "XB-HK-E",
+   "name": "NNC-HK-E",
    "type": "HK-5/9",
    "host": "none",
    "location": "Hongkong",
@@ -91,9 +91,9 @@
    "region": "HK"
   },
   { 
-   "username": "sgp-a",
+   "username": "nnc-sgp-a",
    "password": "davehx",
-   "name": "XB-SGP-A",
+   "name": "NNC-SGP-A",
    "type": "SGP-1/4",
    "host": "None",
    "location": "Singapore",
@@ -101,9 +101,9 @@
    "region": "SGP"
   },
   {
-   "username": "sgp-b",
+   "username": "nnc-sgp-b",
    "password": "davehx",
-   "name": "XB-SGP-B",
+   "name": "NNC-SGP-B",
    "type": "SGP-2/5",
    "host": "None",
    "location": "Singapore",
@@ -111,9 +111,9 @@
    "region": "SGP"
   },
   {
-   "username": "FDC-SGP-3",
+   "username": "nnc-sgp-c",
    "password": "davehx",
-   "name": "FDC-SGP-C",
+   "name": "NNC-SGP-c",
    "type": "SGP-3/6",
    "host": "None",
    "location": "Singapore",
@@ -121,9 +121,9 @@
    "region": "SGP"
   }, 
   {
-   "username": "tw-a",
+   "username": "nnc-tw-a",
    "password": "davehx",
-   "name": "XB-TW-A",
+   "name": "NNC-TW-A",
    "type": "TW-1/3",
    "host": "None",
    "location": "Taiwan",
@@ -131,9 +131,9 @@
    "region": "TW"
   },
   {
-   "username": "hk-b",
+   "username": "nnc-tw-b",
    "password": "davehx",
-   "name": "XB-TW-B",
+   "name": "NNC-TW-B",
    "type": "TW-2/4",
    "host": "none",
    "location": "Hongkong",
