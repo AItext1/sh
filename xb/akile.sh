@@ -9,13 +9,13 @@ read -p "输入选择 (1 或 2): " choice
 
 case $choice in
   1) # hk_basic
-    url="https://raw.githubusercontent.com/AItext1/sh/main/hk.yml"
+    url="https://raw.githubusercontent.com/AItext1/sh/refs/heads/main/xb/hk.yml"
     ;;
   2) # tw_basic
-    url="https://raw.githubusercontent.com/AItext1/sh/main/tw.yml"
+    url="https://raw.githubusercontent.com/AItext1/sh/refs/heads/main/xb/tw.yml"
     ;;
   3) # sgp_basic
-    url="https://raw.githubusercontent.com/AItext1/sh/main/sgp.yml"
+    url="https://raw.githubusercontent.com/AItext1/sh/refs/heads/main/xb/sgp.yml"
     ;;
   4) # jp_basic
     url="https://raw.githubusercontent.com/AItext1/sh/main/lite_jp.yml"
