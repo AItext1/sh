@@ -33,7 +33,7 @@
   {
    "username": "hkt",
    "password": "davehx",
-   "name": "HK-A",
+   "name": "HKBN",
    "type": "HK-1",
    "host": "none",
    "location": "Hongkong",
@@ -43,7 +43,7 @@
   {
    "username": "hkt2",
    "password": "davehx",
-   "name": "HK-B",
+   "name": "HKT",
    "type": "HK-2/6",
    "host": "none",
    "location": "Hongkong",
@@ -53,7 +53,7 @@
   {
    "username": "hk-c",
    "password": "davehx",
-   "name": "HK-C",
+   "name": "XB-HK-C",
    "type": "HK-3/7",
    "host": "none",
    "location": "Hongkong",
@@ -63,7 +63,7 @@
   {
    "username": "hk-d",
    "password": "davehx",
-   "name": "HK-D",
+   "name": "XB-HK-D",
    "type": "HK-4/8",
    "host": "none",
    "location": "Hongkong",
@@ -73,7 +73,7 @@
   {
    "username": "hk-e",
    "password": "davehx",
-   "name": "HK-E",
+   "name": "XB-HK-E",
    "type": "HK-5/9",
    "host": "none",
    "location": "Hongkong",
@@ -93,7 +93,7 @@
   { 
    "username": "sgp-a",
    "password": "davehx",
-   "name": "SGP-A",
+   "name": "XB-SGP-A",
    "type": "SGP-1/4",
    "host": "None",
    "location": "Singapore",
@@ -103,7 +103,7 @@
   {
    "username": "sgp-b",
    "password": "davehx",
-   "name": "SGP-B",
+   "name": "XB-SGP-B",
    "type": "SGP-2/5",
    "host": "None",
    "location": "Singapore",
@@ -123,7 +123,7 @@
   {
    "username": "tw-a",
    "password": "davehx",
-   "name": "TW-A",
+   "name": "XB-TW-A",
    "type": "TW-1/3",
    "host": "None",
    "location": "Taiwan",
@@ -133,7 +133,7 @@
   {
    "username": "hk-b",
    "password": "davehx",
-   "name": "TW-B",
+   "name": "XB-TW-B",
    "type": "TW-2/4",
    "host": "none",
    "location": "Hongkong",
