@@ -21,6 +21,16 @@
    "region": "HK"
   }, 
   {
+   "username": "hu-hkg",
+   "password": "davehx",
+   "name": "HKG-HY",
+   "type": "HY",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  }, 
+  {
    "username": "hkt",
    "password": "davehx",
    "name": "HKBN",
