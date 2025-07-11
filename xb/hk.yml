@@ -1,4 +1,4 @@
- 154.83.83.84:
+154.83.83.84:
   strategy: ipv4_only
   rules:
     # ---------- > Global Plaform
