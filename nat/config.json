@@ -113,8 +113,8 @@
   {
    "username": "FDC-SGP-3",
    "password": "davehx",
-   "name": "SGP-C",
-   "type": "SGP-7/8/9",
+   "name": "FDC-SGP-C",
+   "type": "SGP-3/6",
    "host": "None",
    "location": "Singapore",
    "disabled": false ,
