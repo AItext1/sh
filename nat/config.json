@@ -3,7 +3,7 @@
  { 
    "username": "bgp-hk",
    "password": "davehx",
-   "name": "BGP-HK",
+   "name": "WLAN-IEPL",
    "type": "1Gbps",
    "host": "None",
    "location": "Hong Kong",
@@ -13,8 +13,8 @@
   {
    "username": "hk-a",
    "password": "davehx",
-   "name": "HKG-XBXZ",
-   "type": "XBXZ",
+   "name": "XBXZ-IEPL",
+   "type": "2Gbps",
    "host": "none",
    "location": "Hongkong",
    "disabled": false,
@@ -23,8 +23,8 @@
   {
    "username": "hy-hkg",
    "password": "davehx",
-   "name": "HKG-HY",
-   "type": "HY",
+   "name": "HY-IEPL",
+   "type": "1Gbps",
    "host": "none",
    "location": "Hongkong",
    "disabled": false,
