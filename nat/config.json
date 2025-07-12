@@ -219,17 +219,7 @@
    "location": "Hong Kong",
    "disabled": false ,
    "region": "HK"
-  },
-  {
-   "username": "sgpnube",
-   "password": "davehx",
-   "name": "NUBE-SGP",
-   "type": "---解锁---",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },    
+  }, 
   {
    "username": "akile",
    "password": "davehx",
