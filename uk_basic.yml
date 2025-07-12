@@ -140,7 +140,7 @@ twmedia.networkspeed.info:
     # > Friday Video
     - domain:video.friday.tw
 
-https://ams.core.access.zznet.fun/dns-query:
+154.83.83.83:
   strategy: ipv4_only
   rules:
     # ---------- > Global Plaform
