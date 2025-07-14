@@ -1,4 +1,0 @@
-103.152.113.56:     
-  strategy: ipv4_first     
-  rules:                                       
-    - domain:www.gstatic.com
