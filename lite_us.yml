@@ -1,4 +1,4 @@
-https://lax.core.access.zznet.fun/dns-query::    
+https://lax.core.access.zznet.fun/dns-query:
   strategy: ipv4_first       
   rules:
     # ---------- > Global Plaform
