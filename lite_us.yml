@@ -484,4 +484,25 @@ https://lax.core.access.zznet.fun/dns-query::
     - domain:dt-int-gurme-hls.mncdn.com
     - domain:dt-live-int.akamaized.net
 
-
+    # ---------- > Others
+    # > Openai
+    - domain:openai.com
+    - domain:oaistatic.com
+    - domain:oaiusercontent.com
+    - domain:chatgpt.com
+    - domain:sora.com
+    # > Claude 2
+    - domain:anthropic.com
+    - domain:claude.ai
+    # > ExHantai/E-hentai
+    - domain:exhentai.org
+    - domain:e-hentai.org
+    # > Google Bard
+    - domain:gemini.google.com
+    - domain:proactivebackend-pa.googleapis.com
+    # > Microsoft Copilot For Image Generates
+    - domain:copilot.microsoft.com
+    # > Google AiStudio
+    - domain:aistudio.google.com
+    - domain:alkalimakersuite-pa.clients6.google.com
+    - domain:generativelanguage.googleapis.com
