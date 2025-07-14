@@ -90,6 +90,16 @@
    "disabled": false,
    "region": "HK"
   },
+  {
+   "username": "nnc-hkg-trans",
+   "password": "davehx",
+   "name": "NNC-HKG-TRANS,
+   "type": "JP/US",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },
   { 
    "username": "nnc-sgp-a",
    "password": "davehx",
