@@ -11,6 +11,14 @@ https://lax.core.access.zznet.fun/dns-query:
     - domain:d1sgwhnao7452x.cloudfront.net
     - domain:dcalivedazn.akamaized.net
     - domain:dcblivedazn.akamaized.net
+    # > Netflix
+    - domain:netflix.com
+    - domain:netflix.net
+    - domain:nflximg.com
+    - domain:nflximg.net
+    - domain:nflxvideo.net
+    - domain:nflxext.com
+    - domain:nflxso.net
        
     # ---------- > Hong Kong Media
     # > Now E 
