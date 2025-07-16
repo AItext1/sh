@@ -19,6 +19,14 @@ https://lax.core.access.zznet.fun/dns-query:
     - domain:nflxvideo.net
     - domain:nflxext.com
     - domain:nflxso.net
+    # > Disney+
+    - domain:disney.api.edge.bamgrid.com
+    - domain:disney-plus.net
+    - domain:disneyplus.com
+    - domain:dssott.com
+    - domain:disneynow.com
+    - domain:disneystreaming.com
+    - domain:cdn.registerdisney.go.com
        
     # ---------- > Hong Kong Media
     # > Now E 
