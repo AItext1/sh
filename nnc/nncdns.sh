@@ -1,21 +1,29 @@
 #!/bin/bash
 
 echo "请选择要下载的 DNS 文件:"
-echo "1) hk_basic"
-echo "2) tw_basic"
-echo "3) sgp_basic"
+echo "1) hk"
+echo "2) tw_"
+echo "3) sgp"
+echo "4) jp"
+echo "5) us"
 
 read -p "输入选择 (1 或 2): " choice
 
 case $choice in
-  1) # hk_basic
-    url="https://raw.githubusercontent.com/AItext1/sh/refs/heads/main/nnc/hk_basic.yml"
+  1) # hk
+    url="https://raw.githubusercontent.com/AItext1/sh/refs/heads/main/nnc/hk.yml"
     ;;
-  2) # tw_basic
-    url="https://raw.githubusercontent.com/AItext1/sh/refs/heads/main/nnc/tw_basic.yml"
+  2) # tw
+    url="https://raw.githubusercontent.com/AItext1/sh/refs/heads/main/nnc/tw.yml"
     ;;
-  3) # sgp_basic
-    url="https://raw.githubusercontent.com/AItext1/sh/refs/heads/main/nnc/sgp_basic.yml"
+  3) # sgp
+    url="https://raw.githubusercontent.com/AItext1/sh/refs/heads/main/nnc/sgp.yml"
+    ;;
+  4) # jp
+    url="https://raw.githubusercontent.com/AItext1/sh/refs/heads/main/nnc/jp.yml"
+    ;;  
+  5) # us
+    url="https://raw.githubusercontent.com/AItext1/sh/refs/heads/main/nnc/us.yml"
     ;;
   *)
     echo "无效选择。退出。"
