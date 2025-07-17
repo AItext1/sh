@@ -80,16 +80,6 @@
    "disabled": false,
    "region": "HK"
   }, 
-  {
-   "username": "ytb",
-   "password": "davehx",
-   "name": "FDC-HK-F",
-   "type": "HK-10",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },
   { 
    "username": "nnc-sgp-a",
    "password": "davehx",
