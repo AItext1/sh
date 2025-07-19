@@ -2,7 +2,7 @@
 
 echo "请选择要下载的 DNS 文件:"
 echo "1) hk"
-echo "2) tw_"
+echo "2) tw"
 echo "3) sgp"
 echo "4) jp"
 echo "5) us"
