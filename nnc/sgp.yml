@@ -1,3 +1,8 @@
+205.198.84.95:
+  strategy: ipv4_first       
+  rules:  
+    - domain:www.gstatic.com
+    
 https://hkg2.edge.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
