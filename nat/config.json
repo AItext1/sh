@@ -23,8 +23,18 @@
   {
    "username": "hy-hkg",
    "password": "davehx",
-   "name": "IEPL-HY",
-   "type": "1Gbps",
+   "name": "HY-HK-A",
+   "type": "A出口",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  }, 
+  {
+   "username": "hy-hk-b",
+   "password": "davehx",
+   "name": "HY-HK-B",
+   "type": "B出口",
    "host": "none",
    "location": "Hongkong",
    "disabled": false,
