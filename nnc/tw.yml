@@ -1,3 +1,7 @@
+twmedia.networkspeed.info:    
+  strategy: ipv4_first       
+  rules: 
+  
 https://hkg2.edge.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
