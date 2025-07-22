@@ -31,16 +31,6 @@
    "region": "HK"
   }, 
   {
-   "username": "hy-hk-b",
-   "password": "davehx",
-   "name": "HY-HK-B",
-   "type": "B出口",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  }, 
-  {
    "username": "hkt",
    "password": "davehx",
    "name": "HKBN-HK-A",
