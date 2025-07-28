@@ -229,16 +229,6 @@
    "location": "Hong Kong",
    "disabled": false ,
    "region": "HK"
-  },
-  {
-   "username": "mel",
-   "password": "davehx",
-   "name": "MEL",
-   "type": "BL",
-   "host": "None",
-   "location": "Hong Kong",
-   "disabled": false ,
-   "region": "HK"
   }
  ]
 }
