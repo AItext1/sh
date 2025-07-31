@@ -1,15 +1,5 @@
 {"servers":
  [ 
- { 
-   "username": "bgp-hk",
-   "password": "davehx",
-   "name": "IEPL-WLAN",
-   "type": "1Gbps",
-   "host": "None",
-   "location": "Hong Kong",
-   "disabled": false ,
-   "region": "HK"
-  },
   {
    "username": "hk-a",
    "password": "davehx",
