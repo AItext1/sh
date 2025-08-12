@@ -1,16 +1,3 @@
-twmedia.networkspeed.info:    
-  strategy: ipv4_first       
-  rules: 
-    # > DAZN
-    - domain:dazn-api.com
-    - domain:dazn.com
-    - domain:dazndn.com
-    - domain:indazn.com
-    - domain:d151l6v8er5bdm.cloudfront.net
-    - domain:d1sgwhnao7452x.cloudfront.net
-    - domain:dcalivedazn.akamaized.net
-    - domain:dcblivedazn.akamaized.net
-    
 https://hkg.core.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
