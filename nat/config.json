@@ -1,16 +1,6 @@
 {"servers":
  [   
   {
-   "username": "vm",
-   "password": "davehx",
-   "name": "VM",
-   "type": "2Gbps",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  }, 
-  {
    "username": "hk-a",
    "password": "davehx",
    "name": "IEPL-XBXZ",
