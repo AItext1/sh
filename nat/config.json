@@ -161,16 +161,6 @@
    "region": "TW"
   },
   {
-   "username": "jpmedia",
-   "password": "davehx",
-   "name": "JP-MEDIA",
-   "type": "---解锁---",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  }, 
-  {
    "username": "ca",
    "password": "davehx",
    "name": "CA",
