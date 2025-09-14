@@ -121,20 +121,20 @@
    "region": "HK"
   }, 
   {
-   "username": "nnc-hkg-trans",
+   "username": "jp-a",
    "password": "davehx",
-   "name": "NNC-HKG-TRANS",
-   "type": "JP/US",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
+   "name": "JP-A",
+   "type": " JP-1/3",
+   "host": "None",
+   "location": "Japan",
+   "disabled": false ,
+   "region": "JP"
   },
   {
-   "username": "nnc-jp",
+   "username": "jp-b",
    "password": "davehx",
-   "name": "NNC-JP",
-   "type": " 日本",
+   "name": "JP-B",
+   "type": " JP-2/4",
    "host": "None",
    "location": "Japan",
    "disabled": false ,
@@ -149,16 +149,6 @@
    "location": "Japan",
    "disabled": false ,
    "region": "JP"
-  },
-  {
-   "username": "tw-media",
-   "password": "davehx",
-   "name": "TW-MEDIA",
-   "type": "---解锁---",
-   "host": "None",
-   "location": "Taiwan",
-   "disabled": false ,
-   "region": "TW"
   },
   {
    "username": "ca",
