@@ -11,10 +11,10 @@
    "region": "HK"
   }, 
   {
-   "username": "hy-hk-a",
+   "username": "hy-hk-B",
    "password": "davehx",
-   "name": "HY-HK-A",
-   "type": "A出口",
+   "name": "HY-HK",
+   "type": "B出口",
    "host": "none",
    "location": "Hongkong",
    "disabled": false,
