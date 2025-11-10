@@ -129,6 +129,16 @@
    "location": "Japan",
    "disabled": false ,
    "region": "JP"
+  }, 
+  {
+   "username": "jp-b",
+   "password": "davehx",
+   "name": "JP-B",
+   "type": " JP-2/4",
+   "host": "None",
+   "location": "Japan",
+   "disabled": false ,
+   "region": "JP"
   },
   {
    "username": "nnc-us",
