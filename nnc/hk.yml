@@ -521,15 +521,14 @@ https://hkg.core.access.zznet.fun/dns-query:
     # > Claude 2
     - domain:anthropic.com
     - domain:claude.ai
-    # > ExHantai/E-hentai
-    - domain:exhentai.org
-    - domain:e-hentai.org
-    # > Google Bard
+    # > Google Gemini
     - domain:gemini.google.com
     - domain:proactivebackend-pa.googleapis.com
-    # > Microsoft Copilot For Image Generates
-    - domain:copilot.microsoft.com
+    - domain:aisandbox-pa.googleapis.com
+    - domain:robinfrontend-pa.googleapis.com
     # > Google AiStudio
     - domain:aistudio.google.com
     - domain:alkalimakersuite-pa.clients6.google.com
     - domain:generativelanguage.googleapis.com
+    - domain:alkalicore-pa.clients6.google.com
+    - domain:waa-pa.clients6.google.com
