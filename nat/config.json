@@ -71,6 +71,16 @@
    "region": "HK"
   }, 
   { 
+   "username": "sgpaa",
+   "password": "davehx",
+   "name": "NNC-SGP-AA",
+   "type": "SGP-1/4",
+   "host": "None",
+   "location": "Singapore",
+   "disabled": false ,
+   "region": "SGP"
+  },
+  { 
    "username": "nnc-sgp-a",
    "password": "davehx",
    "name": "NNC-SGP-A",
