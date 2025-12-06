@@ -518,12 +518,4 @@ https://lax.core.access.zznet.fun/dns-query:
     # > ExHantai/E-hentai
     - domain:exhentai.org
     - domain:e-hentai.org
-    # > Google Bard
-    - domain:gemini.google.com
-    - domain:proactivebackend-pa.googleapis.com
-    # > Microsoft Copilot For Image Generates
-    - domain:copilot.microsoft.com
-    # > Google AiStudio
-    - domain:aistudio.google.com
-    - domain:alkalimakersuite-pa.clients6.google.com
-    - domain:generativelanguage.googleapis.com
+
