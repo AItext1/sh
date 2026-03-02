@@ -171,6 +171,16 @@
    "region": "JP"
   },
   {
+   "username": "us-a",
+   "password": "davehx",
+   "name": "US-A",
+   "type": " 美国-AI",
+   "host": "None",
+   "location": "Japan",
+   "disabled": false ,
+   "region": "JP"
+  },
+  {
    "username": "ca",
    "password": "davehx",
    "name": "CA",
