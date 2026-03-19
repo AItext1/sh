@@ -166,7 +166,5 @@
     - domain:oaiusercontent.com
     - domain:chatgpt.com
     - domain:sora.com
-    # > Claude 2
-    - domain:anthropic.com
-    - domain:claude.ai
+
 
