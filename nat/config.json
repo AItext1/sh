@@ -161,6 +161,16 @@
    "region": "JP"
   },
   {
+   "username": "jp-d",
+   "password": "davehx",
+   "name": "JP-D",
+   "type": " JP",
+   "host": "None",
+   "location": "Japan",
+   "disabled": false ,
+   "region": "JP"
+  },
+  {
    "username": "nnc-us",
    "password": "davehx",
    "name": "NNC-US",
