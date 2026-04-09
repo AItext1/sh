@@ -169,6 +169,16 @@
    "location": "Japan",
    "disabled": false ,
    "region": "JP"
+  },  
+  {
+   "username": "fnus",
+   "password": "davehx",
+   "name": "FN-US",
+   "type": " 美国",
+   "host": "None",
+   "location": "Japan",
+   "disabled": false ,
+   "region": "JP"
   },
   {
    "username": "nnc-us",
