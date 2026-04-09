@@ -211,6 +211,16 @@
    "region": "JP"
   },
   {
+   "username": "fn-jp",
+   "password": "davehx",
+   "name": "FN-JP",
+   "type": " 美国",
+   "host": "None",
+   "location": "Japan",
+   "disabled": false ,
+   "region": "JP"
+  },
+  {
    "username": "ca",
    "password": "davehx",
    "name": "CA",
