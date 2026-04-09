@@ -169,17 +169,7 @@
    "location": "Japan",
    "disabled": false ,
    "region": "JP"
-  },  
-  {
-   "username": "fnus",
-   "password": "davehx",
-   "name": "FN-US",
-   "type": " 美国",
-   "host": "None",
-   "location": "Japan",
-   "disabled": false ,
-   "region": "JP"
-  },
+  }, 
   {
    "username": "nnc-us",
    "password": "davehx",
@@ -195,6 +185,26 @@
    "password": "davehx",
    "name": "US-A",
    "type": " 美国-AI",
+   "host": "None",
+   "location": "Japan",
+   "disabled": false ,
+   "region": "JP"
+  }, 
+  {
+   "username": "fnus",
+   "password": "davehx",
+   "name": "FN-US",
+   "type": " 美国",
+   "host": "None",
+   "location": "Japan",
+   "disabled": false ,
+   "region": "JP"
+  },
+  {
+   "username": "fn-sin",
+   "password": "davehx",
+   "name": "FN-SIN",
+   "type": " 美国",
    "host": "None",
    "location": "Japan",
    "disabled": false ,
