@@ -191,46 +191,6 @@
    "region": "JP"
   }, 
   {
-   "username": "fn-hkg",
-   "password": "davehx",
-   "name": "FN-HKG",
-   "type": " 美国",
-   "host": "None",
-   "location": "Japan",
-   "disabled": false ,
-   "region": "JP"
-  },
-  {
-   "username": "fnus",
-   "password": "davehx",
-   "name": "FN-US",
-   "type": " 美国",
-   "host": "None",
-   "location": "Japan",
-   "disabled": false ,
-   "region": "JP"
-  },
-  {
-   "username": "fn-sin",
-   "password": "davehx",
-   "name": "FN-SIN",
-   "type": " 美国",
-   "host": "None",
-   "location": "Japan",
-   "disabled": false ,
-   "region": "JP"
-  },
-  {
-   "username": "fn-jp",
-   "password": "davehx",
-   "name": "FN-JP",
-   "type": " 美国",
-   "host": "None",
-   "location": "Japan",
-   "disabled": false ,
-   "region": "JP"
-  },
-  {
    "username": "ca",
    "password": "davehx",
    "name": "CA",
@@ -261,6 +221,16 @@
    "region": "HK"
   },
   {
+   "username": "fra",
+   "password": "davehx",
+   "name": "FRA",
+   "type": "BL",
+   "host": "None",
+   "location": "Hong Kong",
+   "disabled": false ,
+   "region": "HK"
+  },
+  {
    "username": "de",
    "password": "davehx",
    "name": "GEM",
@@ -274,16 +244,6 @@
    "username": "fr-1",
    "password": "davehx",
    "name": "FR",
-   "type": "KVM",
-   "host": "None",
-   "location": "Hong Kong",
-   "disabled": false ,
-   "region": "HK"
-  },
-  {
-   "username": "fn-fra",
-   "password": "davehx",
-   "name": "FN-FRA",
    "type": "KVM",
    "host": "None",
    "location": "Hong Kong",
