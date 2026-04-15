@@ -21,6 +21,16 @@
    "region": "HK"
   }, 
   {
+   "username": "hkg-aa",
+   "password": "davehx",
+   "name": "HKG-AA",
+   "type": "HK-1/10",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  }, 
+  {
    "username": "nnc-hk-a",
    "password": "davehx",
    "name": "NNC-HK-A",
