@@ -1,16 +1,6 @@
 {"servers":
  [   
   {
-   "username": "hk-b",
-   "password": "davehx",
-   "name": "IEPL-XBXZ",
-   "type": "2Gbps",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  }, 
-  {
    "username": "hy-hk-b",
    "password": "davehx",
    "name": "HY-HK",
@@ -50,36 +40,6 @@
    "disabled": false,
    "region": "HK"
   }, 
-  {
-   "username": "nnc-hk-a",
-   "password": "davehx",
-   "name": "NNC-HK-A",
-   "type": "HK-1/10",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  }, 
-  {
-   "username": "nnc-hk-b",
-   "password": "davehx",
-   "name": "NNC-HK-B",
-   "type": "HK-2/6",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  }, 
-  {
-   "username": "nnc-hk-c",
-   "password": "davehx",
-   "name": "NNC-HK-C",
-   "type": "HK-3/7",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },   
   {
    "username": "nnc-hk-d",
    "password": "davehx",
