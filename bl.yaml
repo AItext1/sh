@@ -1,0 +1,26 @@
+proxies:
+  - {name: "🇭🇰 香港-A", server: h00kgaa1.star11.xyz, port: 60010, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: "🇭🇰 香港-B", server: h00kgbb2.star11.xyz, port: 60011, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: "🇭🇰 香港-C", server: h00kgaa3.star11.xyz, port: 60012, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: "🇭🇰 香港-D", server: h00kgbb4.star11.xyz, port: 60013, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: "🇭🇰 香港-E", server: h00kgbb5.star11.xyz, port: 60014, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+
+  - {name: '🇸🇬 新加坡-A', server: sin00p1.star11.xyz, port: 60030, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: '🇸🇬 新加坡-B', server: sin00p2.star11.xyz, port: 60031, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: '🇸🇬 新加坡-C', server: sin00p3.star11.xyz, port: 60032, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+
+  - {name: '🏳️‍🌈 台湾-A', server: t00waa1.star11.xyz, port: 60040, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: '🏳️‍🌈 台湾-B', server: t00waa2.star11.xyz, port: 60041, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+
+  - {name: '🇯🇵 日本-A-Anytls', server: tk1xy.star11.xyz, port: 52900, type: Anytls, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: '🇯🇵 日本-A', server: ja00paa1.star11.xyz, port: 60050, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: '🇯🇵 日本-B', server: ja00paa2.star11.xyz, port: 60051, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+
+  - {name: '🇺🇲 美国-A', server: u00sbb1.star11.xyz, port: 60060, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: '🇺🇲 美国-B', server: u00sbb2.star11.xyz, port: 60061, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: '🇺🇲 美国-C', server: u00sbb3.star11.xyz, port: 60062, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: "🇰🇷 韩国-A", server: k00raa1.star11.xyz, port: 60101, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: "🇫🇷 法国-A", server: frpar1.star11.xyz, port: 60138, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: "🇬🇧 英国-A", server: u00kdm1.star11.xyz, port: 60082, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: "🇩🇪 德国-A", server: defrak0.star11.xyz, port: 443, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: '🇨🇦 加拿大', server: ca001.star11.xyz, port: 60099, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
