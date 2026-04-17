@@ -12,7 +12,7 @@ proxies:
   - {name: '🏳️‍🌈 台湾-A', server: t00waa1.star11.xyz, port: 60040, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
   - {name: '🏳️‍🌈 台湾-B', server: t00waa2.star11.xyz, port: 60041, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
 
-  - {name: '🇯🇵 日本-A-Anytls', server: tk1xy.star11.xyz, port: 52900, type: Anytls, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
+  - {name: '🇯🇵 日本-C', server: tk1xy.star11.xyz, port: 52900, type: Anytls, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
   - {name: '🇯🇵 日本-A', server: ja00paa1.star11.xyz, port: 60050, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
   - {name: '🇯🇵 日本-B', server: ja00paa2.star11.xyz, port: 60051, type: trojan, password: f587480d-8fe6-4be1-865e-83e9a953fd6d, sni: g.alicdn.com, skip-cert-verify: true}
 
