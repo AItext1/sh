@@ -504,6 +504,9 @@ https://lax.core.access.zznet.fun/dns-query:
     # > BiliBili 
     - domain:bilibili.com
 
+108.199.27.55:
+  strategy: ipv4_only
+  rules:
     # ---------- > Others
     # > Openai
     - domain:openai.com
