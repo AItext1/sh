@@ -502,8 +502,61 @@ https://lax.core.access.zznet.fun/dns-query:
 
     # ---------- > Others
     # > Openai
-    - domain:openai.com
+    # > Anthropic / Claude
+    - domain:anthropic.com
+    - domain:claude.ai
+    - domain:claude.com
+
+    # > Gemini
+    - domain:ai.google.dev
+    - domain:alkalimakersuite-pa.clients6.google.com
+    - domain:makersuite.google.com
+    - domain:bard.google.com
+    - domain:deepmind.com
+    - domain:deepmind.google
+    - domain:gemini.google.com
+    - domain:generativeai.google
+    - domain:proactivebackend-pa.googleapis.com
+    - domain:apis.google.com
+    - domain:aisandbox-pa.googleapis.com
+    - domain:robinfrontend-pa.googleapis.com
+
+    # > AI Studio
+    - domain:aistudio.google.com
+    - domain:alkalimakersuite-pa.clients6.google.com
+    - domain:generativelanguage.googleapis.com
+    - domain:alkalicore-pa.clients6.google.com
+
+    # > Copilot
+    - domain:copilot.microsoft.com
+
+    # > OpenAI
+    - domain:browser-intake-datadoghq.com
+    - domain:chat.openai.com.cdn.cloudflare.net
+    - domain:openai-api.arkoselabs.com
+    - domain:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+    - domain:openaicomproductionae4b.blob.core.windows.net
+    - domain:production-openaicom-storage.azureedge.net
+    - domain:static.cloudflareinsights.com
+    - domain:ai.com
+    - domain:algolia.net
+    - domain:api.statsig.com
+    - domain:auth0.com
+    - domain:chatgpt.com
+    - domain:chatgpt.livekit.cloud
+    - domain:client-api.arkoselabs.com
+    - domain:events.statsigapi.net
+    - domain:featuregates.org
+    - domain:host.livekit.cloud
+    - domain:identrust.com
+    - domain:intercom.io
+    - domain:intercomcdn.com
+    - domain:launchdarkly.com
     - domain:oaistatic.com
     - domain:oaiusercontent.com
-    - domain:chatgpt.com
-    - domain:sora.com
+    - domain:observeit.net
+    - domain:openai.com
+    - domain:openaiapi-site.azureedge.net
+    - domain:openaicom.imgix.net
+    - domain:segment.io
+    - domain:sentry.io
