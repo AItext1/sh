@@ -504,7 +504,6 @@ https://lax.core.access.zznet.fun/dns-query:
     # > BiliBili 
     - domain:bilibili.com
 
-
     # ---------- > Others
     # > Openai
     - domain:openai.com
@@ -512,3 +511,19 @@ https://lax.core.access.zznet.fun/dns-query:
     - domain:oaiusercontent.com
     - domain:chatgpt.com
     - domain:sora.com
+    # > Claude 2
+    - domain:anthropic.com
+    - domain:claude.ai
+    - domain:claude.com
+    # > Google Gemini
+    - domain:gemini.google.com
+    - domain:proactivebackend-pa.googleapis.com
+    - domain:aisandbox-pa.googleapis.com
+    - domain:robinfrontend-pa.googleapis.com
+    # > Google AiStudio
+    - domain:aistudio.google.com
+    - domain:alkalimakersuite-pa.clients6.google.com
+    - domain:generativelanguage.googleapis.com
+    - domain:alkalicore-pa.clients6.google.com
+    - domain:waa-pa.clients6.google.com
+    - domain:copilot.microsoft.com
