@@ -11,9 +11,9 @@
    "region": "HK"
   }, 
   {
-   "username": "hkg-ee",
+   "username": "nnc-hk-a",
    "password": "davehx",
-   "name": "HKG-EE",
+   "name": "NNC-HK-A",
    "type": "HK-1/10",
    "host": "none",
    "location": "Hongkong",
@@ -21,9 +21,9 @@
    "region": "HK"
   }, 
   {
-   "username": "hkg-ff",
+   "username": "nnc-hk-b",
    "password": "davehx",
-   "name": "HKG-FF",
+   "name": "NNC-HK-B",
    "type": "HK-2/6",
    "host": "none",
    "location": "Hongkong",
@@ -31,9 +31,9 @@
    "region": "HK"
   }, 
   {
-   "username": "hkg-gg",
+   "username": "nnc-hk-c",
    "password": "davehx",
-   "name": "HKG-GG",
+   "name": "NNC-HK-C",
    "type": "HK-3/7",
    "host": "none",
    "location": "Hongkong",
