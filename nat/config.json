@@ -11,6 +11,16 @@
    "region": "HK"
   }, 
   {
+   "username": "gcp",
+   "password": "davehx",
+   "name": "GCP",
+   "type": "GoogleHKG",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  }, 
+  {
    "username": "nnc-hk-a",
    "password": "davehx",
    "name": "NNC-HK-A",
