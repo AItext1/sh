@@ -2,18 +2,7 @@ https://hkg.core.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
     # ---------- > Global Plaform
-    # > Tiktok
-    - domain:byteoversea.com
-    - domain:ibytedtos.com
-    - domain:ipstatp.com
-    - domain:muscdn.com
-    - domain:musical.ly
-    - domain:tiktok.com
-    - domain:tik-tokapi.com
-    - domain:tiktokcdn.com
-    - domain:tiktokv.com
 
-   
     # ---------- > Hong Kong Media
     # > Now E 
     - domain:nowe.com
