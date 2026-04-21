@@ -321,7 +321,6 @@ https://lax.core.access.zznet.fun/dns-query:
     - geosite:google-gemini
     - geosite:microsoft
     - geosite:category-ai-chat-!cn
-    - geosite:perplexity
     - geosite:huggingface
     - geosite:openai              # ChatGPT / OpenAI API（重要！category-ai-chat 可能不完整）
     - geosite:cursor              # Cursor AI 编辑器
