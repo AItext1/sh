@@ -1,5 +1,5 @@
 
-https://lax.core.access.zznet.fun/dns-query:
+142.120.196.167:
   strategy: ipv4_only
   rules:
     # ---------- > Global Plaform
