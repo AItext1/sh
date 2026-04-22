@@ -1,58 +1,50 @@
 #!/bin/bash
 
 echo "请选择要下载的 DNS 文件:"
-echo "1) hk_basic"
-echo "2) tw_basic"
-echo "3) sgp_basic"
-echo "4) jp_basic"
-echo "5) kr_basic"
-echo "6) us_basic"
-echo "7) uk_basic"
-echo "8) fr_basic"
-echo "9) de_basic"
+echo "1) HK"
+echo "2) TW"
+echo "3) SIN"
+echo "4) JP"
+echo "5) KR"
+echo "6) US"
+echo "7) UK"
+echo "8) FR"
+echo "9) GEM"
 echo "10) CA"
-echo "11) MEL"
-echo "12) HK_YTB"
 
 read -p "输入选择 (1 或 2): " choice
 
 case $choice in
-  1) # hk_basic
+  1) # HK
     url="https://raw.githubusercontent.com/AItext1/sh/main/hk_basic.yml"
     ;;
-  2) # tw_basic
+  2) # TW
     url="https://raw.githubusercontent.com/AItext1/sh/main/tw_basic.yml"
     ;;
-  3) # sgp_basic
+  3) # SIN
     url="https://raw.githubusercontent.com/AItext1/sh/main/sgp_basic.yml"
     ;;
-  4) # jp_basic
+  4) # JP
     url="https://raw.githubusercontent.com/AItext1/sh/main/jp_basic.yml"
     ;;
-  5) # kr_basic
+  5) # KR
     url="https://raw.githubusercontent.com/AItext1/sh/main/kr_basic.yml"
     ;;
-  6) # us_basic
+  6) # US
     url="https://raw.githubusercontent.com/AItext1/sh/main/us_basic.yml"
     ;;
-  7) # uk_basic
+  7) # UK
     url="https://raw.githubusercontent.com/AItext1/sh/main/uk_basic.yml"
     ;;
-  8) # fr_basic
+  8) # FR
     url="https://raw.githubusercontent.com/AItext1/sh/main/fr_basic.yml"
     ;;
-  9) # de_basic
+  9) # GEM
     url="https://raw.githubusercontent.com/AItext1/sh/main/de_basic.yml"
     ;;
   10) # CA
-    url="https://raw.githubusercontent.com/AItext1/sh/main/all_ca.yml"
+    url="https://raw.githubusercontent.com/AItext1/sh/main/ca_basic.yml"
     ;;  
-  11) # MEL
-    url="https://raw.githubusercontent.com/AItext1/sh/main/all_mel.yml"
-    ;;  
-  12) # hk_ytb
-    url="https://raw.githubusercontent.com/AItext1/sh/main/all_hk_ytb.yml"
-    ;;
   *)
     echo "无效选择。退出。"
     exit 1
