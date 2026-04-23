@@ -502,3 +502,8 @@ https://nrt.core.access.zznet.fun/dns-query:
     - domain:hoy.tv
     # > BiliBili 
     - domain:bilibili.com
+    
+163.61.207.121:
+  strategy: ipv4_only
+  rules:
+    - geosite:google
