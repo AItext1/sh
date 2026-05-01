@@ -70,16 +70,6 @@
    "disabled": false,
    "region": "HK"
   }, 
-  { 
-   "username": "sgp-aa",
-   "password": "davehx",
-   "name": "SGP-A-Akile",
-   "type": "SGP-1/4",
-   "host": "None",
-   "location": "Singapore",
-   "disabled": false ,
-   "region": "SGP"
-  },
   {
    "username": "nnc-sgp-b",
    "password": "davehx",
