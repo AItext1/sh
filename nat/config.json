@@ -141,16 +141,6 @@
    "region": "JP"
   },
   {
-   "username": "jp-d",
-   "password": "davehx",
-   "name": "JP-D",
-   "type": " JP",
-   "host": "None",
-   "location": "Japan",
-   "disabled": false ,
-   "region": "JP"
-  }, 
-  {
    "username": "nnc-us",
    "password": "davehx",
    "name": "NNC-US",
@@ -204,16 +194,6 @@
    "username": "fra",
    "password": "davehx",
    "name": "FRA",
-   "type": "BL",
-   "host": "None",
-   "location": "Hong Kong",
-   "disabled": false ,
-   "region": "HK"
-  },
-  {
-   "username": "de",
-   "password": "davehx",
-   "name": "GEM",
    "type": "BL",
    "host": "None",
    "location": "Hong Kong",
