@@ -13,11 +13,6 @@ https://hkg.core.access.zznet.fun/dns-query:
     #include Viu.com
     - domain:viu.now.com
     - domain:viu.tv
-    # > MyTVSuper
-    - domain:mytvsuper.com
-    - domain:mytvsuperlimited.hb.omtrdc.net
-    - domain:mytvsuperlimited.sc.omtrdc.net
-    - domain:tvb.com
     # > HBO GO Asia
     - domain:44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
     - domain:bcbolthboa-a.akamaihd.net
