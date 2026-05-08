@@ -313,7 +313,7 @@
     - domain:dt-int-gurme-hls.mncdn.com
     - domain:dt-live-int.akamaized.net
 
-142.120.196.167:
+yulnas.11223344.uk:
   strategy: ipv4_only
   rules:
     - geosite:google
