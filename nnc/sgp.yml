@@ -2,7 +2,7 @@
 https://hkg2.edge.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
-    - geosite:google
+    - geosite:youtube
     # > Netflix
     - domain:netflix.com
     - domain:netflix.net
