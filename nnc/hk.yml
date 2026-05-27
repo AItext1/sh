@@ -2,7 +2,16 @@ https://hkg.core.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
     # ---------- > Global Plaform
-
+    - geosite:google
+    - geosite:anthropic
+    - geosite:google-gemini
+    - geosite:microsoft
+    - geosite:category-ai-chat-!cn
+    - geosite:huggingface
+    - geosite:openai              # ChatGPT / OpenAI API（重要！category-ai-chat 可能不完整）
+    - geosite:cursor              # Cursor AI 编辑器
+    - geosite:category-ai-!cn     # AI 综合（比 ai-chat 更全，含图像/音频/API 等）
+    - geosite:xai                 # Grok (xAI)
     # ---------- > Hong Kong Media
     # > Now E 
     - domain:nowe.com
@@ -467,14 +476,3 @@ https://hkg.core.access.zznet.fun/dns-query:
     - domain:digiturkplay.com
     - domain:dt-int-gurme-hls.mncdn.com
     - domain:dt-live-int.akamaized.net
-
-    # ---------- > Others
-    # > Openai
-    - domain:openai.com
-    - domain:oaistatic.com
-    - domain:oaiusercontent.com
-    - domain:chatgpt.com
-    - domain:sora.com
-    # > Claude 2
-    - domain:anthropic.com
-    - domain:claude.ai
