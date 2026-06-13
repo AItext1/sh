@@ -11,6 +11,16 @@
    "region": "HK"
   }, 
   {
+   "username": "awshk",
+   "password": "davehx",
+   "name": "AWSHK",
+   "type": "AWS",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  }, 
+  {
    "username": "nnc-hk-a",
    "password": "davehx",
    "name": "NNC-HK-A",
@@ -111,16 +121,6 @@
    "region": "JP"
   }, 
   {
-   "username": "jp-b",
-   "password": "davehx",
-   "name": "JP-B",
-   "type": " JP-2/4",
-   "host": "None",
-   "location": "Japan",
-   "disabled": false ,
-   "region": "JP"
-  },  
-  {
    "username": "nnc-us",
    "password": "davehx",
    "name": "NNC-US",
@@ -130,16 +130,6 @@
    "disabled": false ,
    "region": "JP"
   },
-  {
-   "username": "us-a",
-   "password": "davehx",
-   "name": "US-A",
-   "type": " 美国-AI",
-   "host": "None",
-   "location": "Japan",
-   "disabled": false ,
-   "region": "JP"
-  }, 
   {
    "username": "ca",
    "password": "davehx",
@@ -160,16 +150,6 @@
    "disabled": false ,
    "region": "HK"
   }, 
-  {
-   "username": "uk-1",
-   "password": "davehx",
-   "name": "UK",
-   "type": "KVM",
-   "host": "None",
-   "location": "Hong Kong",
-   "disabled": false ,
-   "region": "HK"
-  },
   {
    "username": "fra",
    "password": "davehx",
