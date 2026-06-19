@@ -31,6 +31,16 @@
    "region": "HK"
   }, 
   {
+   "username": "awssin",
+   "password": "davehx",
+   "name": "AWSSIN",
+   "type": "AWS",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  }, 
+  {
    "username": "nnc-hk-a",
    "password": "davehx",
    "name": "NNC-HK-A",
