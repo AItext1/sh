@@ -6,7 +6,6 @@ yulnas.11223344.uk:
     - geosite:youtube
     - geosite:anthropic
     - geosite:google-gemini
-    - geosite:microsoft
     - geosite:category-ai-chat-!cn
     - geosite:huggingface
     - geosite:openai              # ChatGPT / OpenAI API（重要！category-ai-chat 可能不完整）
