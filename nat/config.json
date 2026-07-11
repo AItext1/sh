@@ -11,16 +11,6 @@
    "region": "HK"
   }, 
   {
-   "username": "awshk",
-   "password": "davehx",
-   "name": "AWSHK",
-   "type": "AWS",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  }, 
-  {
    "username": "awsjp",
    "password": "davehx",
    "name": "AWSJP",
