@@ -3,9 +3,5 @@ https://hkg.core.access.zznet.fun/dns-query:
   rules:
     # ---------- > Global Plaform
     - geosite:anthropic
-    - geosite:category-ai-chat-!cn
-    - geosite:huggingface
     - geosite:openai              # ChatGPT / OpenAI API（重要！category-ai-chat 可能不完整）
-    - geosite:cursor              # Cursor AI 编辑器
-    - geosite:category-ai-!cn     # AI 综合（比 ai-chat 更全，含图像/音频/API 等）
-    - geosite:xai                 # Grok (xAI)
+   
