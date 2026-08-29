@@ -1,15 +1,35 @@
 {"servers":
  [   
   {
-   "username": "hy-hk-a",
+   "username": "hyenos",
    "password": "davehx",
-   "name": "HY-HK",
-   "type": "B出口",
+   "name": "Eons",
+   "type": "Eons",
    "host": "none",
    "location": "Hongkong",
    "disabled": false,
    "region": "HK"
-  }, 
+  },    
+  {
+   "username": "hysakura",
+   "password": "davehx",
+   "name": "Sakura",
+   "type": "Sakura",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },     
+  {
+   "username": "hyhytron",
+   "password": "davehx",
+   "name": "Hytron",
+   "type": "Hytron",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },
   {
    "username": "awsjp",
    "password": "davehx",
@@ -29,66 +49,6 @@
    "location": "Hongkong",
    "disabled": false,
    "region": "HK"
-  }, 
-  {
-   "username": "nnc-hk-a",
-   "password": "davehx",
-   "name": "NNC-HK-A",
-   "type": "HK-1/10",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  }, 
-  {
-   "username": "nnc-hk-b",
-   "password": "davehx",
-   "name": "NNC-HK-B",
-   "type": "HK-2/6",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  }, 
-  {
-   "username": "nnc-hk-c",
-   "password": "davehx",
-   "name": "NNC-HK-C",
-   "type": "HK-3/7",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  }, 
-  {
-   "username": "nnc-hk-d",
-   "password": "davehx",
-   "name": "NNC-HK-D",
-   "type": "HK-4/8",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },   
-  {
-   "username": "nnc-hk-e",
-   "password": "davehx",
-   "name": "NNC-HK-E",
-   "type": "HK-5/9",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  }, 
-  {
-   "username": "nnc-us",
-   "password": "davehx",
-   "name": "NNC-US",
-   "type": " 美国",
-   "host": "None",
-   "location": "Japan",
-   "disabled": false ,
-   "region": "JP"
   }
  ]
 }
