@@ -19,7 +19,17 @@
    "location": "Hongkong",
    "disabled": false,
    "region": "HK"
-  },     
+  },       
+  {
+   "username": "uchk",
+   "password": "davehx",
+   "name": "UCHK",
+   "type": "UCHK",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },   
   {
    "username": "hytron",
    "password": "davehx",
