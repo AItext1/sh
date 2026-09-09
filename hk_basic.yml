@@ -1,7 +1,6 @@
 https://hkg.core.access.zznet.fun/dns-query:
   strategy: ipv4_only
   rules:
-    - geosite:google
     - geosite:anthropic
     - geosite:google-gemini
     - geosite:category-ai-chat-!cn
