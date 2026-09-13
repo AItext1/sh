@@ -1,7 +1,0 @@
-https://hkg.core.access.zznet.fun/dns-query:
-  strategy: ipv4_only
-  rules:
-    # ---------- > Global Plaform
-    - geosite:anthropic
-    - geosite:openai              # ChatGPT / OpenAI API（重要！category-ai-chat 可能不完整）
-   
