@@ -1,4 +1,4 @@
-https://hkg.core.access.zznet.fun/dns-query:
+nrtdns.11223344.uk:
   strategy: ipv4_only
   rules:
     - geosite:anthropic
