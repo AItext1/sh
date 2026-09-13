@@ -2,6 +2,5 @@ nrtdns.11223344.uk:
   strategy: ipv4_only
   rules:
     - geosite:anthropic
-    - geosite:openai              # ChatGPT / OpenAI API（重要！category-ai-chat 可能不完整）
-    - geosite:cursor              # Cursor AI 编辑器
-    - geosite:xai                 # Grok (xAI)
+    - geosite:openai 
+    - geosite:xai
