@@ -41,7 +41,7 @@
    "region": "HK"
   },   
   {
-   "username": "nrt-dns",
+   "username": "nrtdns",
    "password": "davehx",
    "name": "NRT-DNS",
    "type": "DNS",
@@ -51,7 +51,7 @@
    "region": "HK"
   },   
   {
-   "username": "NAS-Debian",
+   "username": "nasDebian",
    "password": "davehx",
    "name": "Debian",
    "type": "Debian",
