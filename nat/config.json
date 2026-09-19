@@ -9,17 +9,7 @@
    "location": "Hongkong",
    "disabled": false,
    "region": "HK"
-  },    
-  {
-   "username": "sakura",
-   "password": "davehx",
-   "name": "Sakura",
-   "type": "Sakura",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  },       
+  },          
   {
    "username": "uchk",
    "password": "davehx",
@@ -60,16 +50,6 @@
    "disabled": false,
    "region": "HK"
   },
-  {
-   "username": "awsjp",
-   "password": "davehx",
-   "name": "AWSJP",
-   "type": "AWS",
-   "host": "none",
-   "location": "Hongkong",
-   "disabled": false,
-   "region": "HK"
-  }, 
   {
    "username": "awssin",
    "password": "davehx",
