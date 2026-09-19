@@ -39,6 +39,26 @@
    "location": "Hongkong",
    "disabled": false,
    "region": "HK"
+  },   
+  {
+   "username": "nrt-dns",
+   "password": "davehx",
+   "name": "NRT-DNS",
+   "type": "DNS",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },   
+  {
+   "username": "NAS-Debian",
+   "password": "davehx",
+   "name": "Debian",
+   "type": "Debian",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
   },
   {
    "username": "awsjp",
