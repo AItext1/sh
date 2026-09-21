@@ -4,3 +4,4 @@ nrtdns.11223344.uk:
     - geosite:anthropic
     - geosite:openai 
     - geosite:xai
+    - geosite:google-gemini
