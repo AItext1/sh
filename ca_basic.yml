@@ -1,3 +1,8 @@
+2001:4860:4860::8888:
+  strategy: ipv6_only
+  rules:
+    - geosite:google
+    - geosite:google-gemini
 yulnas.11223344.uk:
   strategy: ipv4_only
   rules:
