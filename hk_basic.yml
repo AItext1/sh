@@ -5,7 +5,7 @@ nrtdns.11223344.uk:
     - geosite:openai 
     - geosite:xai
     
-2001:4860:4860::8888::
+2001:4860:4860::8888:
   strategy: ipv6_only
   rules:
      - geosite:google-gemini
