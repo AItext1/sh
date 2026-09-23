@@ -29,7 +29,17 @@
    "location": "Hongkong",
    "disabled": false,
    "region": "HK"
-  },   
+  },     
+  {
+   "username": "hke",
+   "password": "davehx",
+   "name": "HK-E",
+   "type": "DNS",
+   "host": "none",
+   "location": "Hongkong",
+   "disabled": false,
+   "region": "HK"
+  },  
   {
    "username": "nrtdns",
    "password": "davehx",
