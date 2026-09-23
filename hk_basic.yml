@@ -4,4 +4,9 @@ nrtdns.11223344.uk:
     - geosite:anthropic
     - geosite:openai 
     - geosite:xai
-    - geosite:google-gemini
+    
+103.167.135.38:
+  strategy: ipv4_only
+  rules:
+     - geosite:google-gemini
+     - geosite:google
