@@ -10,3 +10,4 @@ nrtdns.11223344.uk:
   rules:
      - geosite:google-gemini
      - geosite:google
+     - geosite:netflix
