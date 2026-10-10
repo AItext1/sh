@@ -31,10 +31,10 @@
    "region": "HK"
   },     
   {
-   "username": "hke",
+   "username": "Sakura",
    "password": "davehx",
-   "name": "HK-E",
-   "type": "DNS",
+   "name": "Sakura",
+   "type": "Sakura",
    "host": "none",
    "location": "Hongkong",
    "disabled": false,
